@@ -20,8 +20,6 @@ O que exatamente estudamos quando estudamos psicopatologia? Onde está o objeto?
 :::
 :::
 
-![Capa do livro Psicopatologia: Uma Breve Introdução](images/cover.png){.book-cover fig-alt="Capa do livro Psicopatologia — fotografia de uma trilha através da floresta, evocando o caminho metodológico da semiologia clínica."}
-
 ::: {.cta-block}
 [Começar a leitura](capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd){.btn-read}
 :::
