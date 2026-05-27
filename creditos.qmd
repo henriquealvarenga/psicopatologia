@@ -1,0 +1,202 @@
+---
+subtitle: "Autor, metodologia, licença e como citar"
+toc: true
+number-sections: false
+---
+
+# Créditos {.unnumbered}
+
+## Autor
+
+**Henrique Alvarenga da Silva**
+
+Médico psiquiatra. Professor de Psiquiatria do Curso de Medicina da Universidade Federal de São João del-Rei (UFSJ) e professor do curso de Medicina do UNIOPTAN/AFYA Educacional. Especialista em Psiquiatria e Psicopatologia, com foco em metodologia de pesquisa e educação médica baseada em evidências. Mestre em Educação Médica.
+
+::: {.contact-links}
+[🌐 Site pessoal](https://www.henriquealvarenga.com){.contact-link}
+[📧 E-mail](mailto:henriquealvarenga@ufsj.edu.br){.contact-link}
+[🆔 ORCID](https://orcid.org/0000-0001-9799-5240){.contact-link}
+[📚 GitHub](https://github.com/henriquealvarenga){.contact-link}
+:::
+
+::: {.about-section}
+## Metodologia e tecnologias
+
+Este recurso foi construído usando ferramentas de código aberto e ciência aberta:
+
+::: {.tech-stack}
+::: {.tech-item}
+#### Escrita & Estrutura
+**Quarto** — Sistema de publicação científica
+**Markdown** — Linguagem de marcação
+**BibTeX** — Gerenciamento bibliográfico
+:::
+
+::: {.tech-item}
+#### Desenvolvimento
+**Positron IDE** — Ambiente integrado
+**Git/GitHub** — Controle de versão
+**GitHub Actions** — Publicação automática
+:::
+
+::: {.tech-item}
+#### Pesquisa
+**PubMed** — Base bibliográfica
+**Zotero** — Gerenciamento de referências
+**DOI verification** — Validação de citações
+:::
+
+::: {.tech-item}
+#### Design
+**CSS moderno** — Interface responsiva
+**Tema editorial** — Tipografia serif/sans
+**Self-hosted fonts** — Playfair, Inter, JetBrains Mono
+:::
+:::
+
+### Inteligência artificial
+
+O desenvolvimento contou com auxílio de IA generativa:
+
+- **Claude** (Anthropic) — assistência na estruturação, código CSS, organização bibliográfica
+- **PubMed search automation** — busca sistemática de literatura recente
+
+::: {.callout-note}
+## Transparência sobre uso de IA
+
+A IA foi utilizada como ferramenta de apoio, não substituto do trabalho intelectual. Toda informação foi verificada, todas as referências conferidas individualmente, todos os DOIs validados. A responsabilidade pelo conteúdo final é integralmente do autor.
+:::
+:::
+
+::: {.about-section}
+## Repositório e colaboração
+
+O código-fonte está disponível publicamente:
+
+🔗 **Repositório:** [github.com/henriquealvarenga/psicopatologia](https://github.com/henriquealvarenga/psicopatologia)
+
+Contribuições são bem-vindas via *issues* ou *pull requests*, especialmente:
+
+- Correções bibliográficas
+- Sugestões de novos exemplos clínicos
+- Melhorias na interface
+- Apontamentos conceituais e revisões
+:::
+
+::: {.about-section}
+## Crédito das imagens
+
+### Capa do livro
+
+A imagem reproduzida na capa é a fotografia **"A walking path going through the forest for miles at Apostle Island National Lakeshore"** de **Todd Trapani**, disponibilizada na plataforma Unsplash. A sobreposição tipográfica (título, subtítulo, edição, autor) foi feita por Henrique Alvarenga da Silva.
+
+::: {.content-visible when-format="html"}
+[![Capa do livro Psicopatologia — fotografia de uma trilha cruzando uma floresta, de Todd Trapani (Unsplash).](images/cover.png){.cover-credit-thumb fig-alt="Miniatura da capa: trilha de madeira atravessando uma floresta densa em Apostle Islands National Lakeshore."}](https://unsplash.com/photos/brown-wooden-dock-in-the-middle-of-forest-v2Jf_jpNamc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+:::
+
+| Campo                       | Informação |
+|-----------------------------|-----------|
+| **Título no Unsplash**      | *A walking path going through the forest for miles at Apostle Island National Lakeshore* |
+| **Autoria da fotografia**   | [Todd Trapani](https://unsplash.com/@ttrapani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) |
+| **Local**                   | Apostle Islands National Lakeshore, Wisconsin (EUA) |
+| **Plataforma**              | [Unsplash](https://unsplash.com/photos/brown-wooden-dock-in-the-middle-of-forest-v2Jf_jpNamc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) |
+| **URL canônica**            | <https://unsplash.com/photos/brown-wooden-dock-in-the-middle-of-forest-v2Jf_jpNamc> |
+| **Licença**                 | [Unsplash License](https://unsplash.com/license) — uso livre, inclusive comercial; atribuição não obrigatória, mantida aqui por reconhecimento ao autor |
+| **Tipografia da capa**      | Henrique Alvarenga da Silva — Playfair Display sobre a fotografia |
+
+: Crédito da imagem de capa {.striped tbl-colwidths="[28,72]"}
+
+### Demais imagens
+
+Outras imagens eventualmente utilizadas neste livro provêm de fontes de uso livre (Wikimedia Commons, domínio público, licenças Creative Commons compatíveis ou Unsplash License), com crédito individual informado no próprio ponto de uso.
+:::
+
+::: {.about-section}
+## Dados de publicação
+
+| Campo                                 | Informação |
+|---------------------------------------|-----------|
+| **Título**                            | Psicopatologia: Uma Breve Introdução |
+| **Edição**                            | 2ª edição (revista e ampliada) |
+| **Ano**                               | 2026 |
+| **Editor**                            | Edição do Autor — Henrique Alvarenga da Silva |
+| **Afiliação institucional do autor**  | UFSJ — Universidade Federal de São João del-Rei, Curso de Medicina |
+| **Local**                             | São João del-Rei, MG, Brasil |
+| **Formato**                           | E-book (HTML) |
+| **ISBN da 1ª edição (2020)**          | 978-65-00-08881-6 |
+| **ISBN da 2ª edição**                 | em cadastramento |
+| **URL canônica**                      | <https://henriquealvarenga.com/psicopatologia> |
+
+: Ficha bibliográfica {.striped tbl-colwidths="[35,65]"}
+:::
+
+::: {.about-section}
+## Licenciamento
+
+Este trabalho está licenciado sob **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+
+**Você pode:**
+
+- **Compartilhar** — copiar e redistribuir o material
+- **Adaptar** — remixar, transformar e criar a partir do material
+
+**Sob as condições:**
+
+- **Atribuição** — dar crédito apropriado
+- **NãoComercial** — não usar para fins comerciais
+- **CompartilhaIgual** — distribuir contribuições sob a mesma licença
+
+🔗 [Texto completo da licença](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
+:::
+
+::: {.about-section}
+## Citação sugerida {#citacao-sugerida}
+
+Selecione o estilo abaixo:
+
+::: {.panel-tabset}
+
+### ABNT (NBR 6023)
+
+SILVA, Henrique Alvarenga da. **Psicopatologia**: uma breve introdução. 2. ed. São João del-Rei: Edição do Autor, 2026. E-book. Disponível em: <https://henriquealvarenga.com/psicopatologia>. Acesso em: [inserir data de acesso].
+
+### Vancouver
+
+Silva HA. Psicopatologia: uma breve introdução. 2ª ed. [Internet]. São João del-Rei (MG): Edição do Autor; 2026 [citado em ano mês dia]. Disponível em: https://henriquealvarenga.com/psicopatologia
+
+### APA (7ª ed.)
+
+Silva, H. A. da. (2026). *Psicopatologia: Uma breve introdução* (2ª ed.). Edição do Autor. https://henriquealvarenga.com/psicopatologia
+
+### BibTeX
+
+```bibtex
+@book{silva_psicopatologia_2026,
+  author    = {Silva, Henrique Alvarenga da},
+  title     = {Psicopatologia: uma breve introdução},
+  edition   = {2},
+  publisher = {Edição do Autor},
+  address   = {São João del-Rei, MG, Brasil},
+  year      = {2026},
+  url       = {https://henriquealvarenga.com/psicopatologia},
+  note      = {E-book; segunda edição. Primeira edição: 2020, ISBN 978-65-00-08881-6.}
+}
+```
+
+:::
+:::
+
+
+::: {.about-section}
+## Contato
+
+Dúvidas, sugestões ou correções:
+
+📧 [henriquealvarenga@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)
+
+Ou via *issues* no [repositório GitHub](https://github.com/henriquealvarenga/psicopatologia).
+
+---
+
+*Última atualização: Maio de 2026*
+:::

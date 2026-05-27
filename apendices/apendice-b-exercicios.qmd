@@ -1,0 +1,216 @@
+---
+title: "Apêndice B — Exercícios e questões"
+subtitle: "Para discussão em grupo, estudo dirigido ou avaliação formativa"
+toc: true
+number-sections: false
+---
+
+Este apêndice oferece **exercícios discursivos por capítulo** — pensados para discussão em pequenos grupos, estudo dirigido individual ou avaliação formativa por parte do docente. As questões não têm "gabarito": são instrumentos de reflexão, e respostas bem fundamentadas são mais valiosas que respostas "corretas".
+
+Para cada capítulo há um conjunto de **5 a 7 questões discursivas**. Ao final, três **casos integradores** propõem situações clínicas que mobilizam conceitos de múltiplos capítulos simultaneamente.
+
+::: {.callout-tip}
+## Sugestão de uso em sala de aula
+
+Para uma discussão em grupo de 90 minutos, recomenda-se selecionar **3 a 4 questões** do capítulo em pauta, distribuí-las por subgrupos de 4–5 estudantes, e dedicar 30 minutos para discussão interna seguidos de 60 minutos de síntese plenária. Os casos integradores funcionam melhor como prova discursiva ou TBL (*Team-Based Learning*) ao final de cada bloco temático.
+:::
+
+## Capítulo 1 — O problema do objeto
+
+1. Compare a tarefa do anatomista que precisa decidir se um pulmão tem dois ou três lobos com a tarefa do psiquiatra que precisa decidir se um paciente está delirando. Em que **especificamente** essas tarefas diferem do ponto de vista epistêmico? Quais analogias entre elas são úteis e quais são enganadoras?
+
+2. Um paciente relata "ouvir vozes". Outro relata "estar muito triste". Pelos critérios discutidos no capítulo, qual dos dois relatos é **mais** acessível ao método psicopatológico e qual é **menos**? Justifique a partir do problema do acesso à experiência subjetiva.
+
+3. Por que a ressonância magnética funcional, apesar dos avanços técnicos, **ainda não substitui** o exame do estado mental no diagnóstico psiquiátrico? O que a fMRI "vê" e o que ela não vê?
+
+4. O capítulo discute que "não temos exame de sangue para o delírio". Construa um argumento — em até três parágrafos — explicando por que esse fato **não é** uma limitação técnica que será resolvida com avanço tecnológico, mas sim uma característica constitutiva do objeto.
+
+5. Imagine que dois psiquiatras discordam sobre se um paciente tem delírio paranoide ou personalidade paranoide. Que estratégias eles têm para resolver essa discordância? Por que essas estratégias **não** são equivalentes a "abrir o cadáver" no caso anatômico?
+
+6. Reflita: se a psicopatologia tem acesso apenas indireto e mediado ao seu objeto, o que confere validade às suas descrições? É uma validade do mesmo tipo da validade da semiologia médica geral, ou de tipo diferente?
+
+## Capítulo 2 — Níveis de análise em psicopatologia
+
+1. Etiologia, fisiopatologia, psicopatologia e nosologia operam em níveis distintos. Para o **Transtorno Depressivo Maior**, formule uma afirmação que pertença a cada um desses quatro níveis. Discuta como elas se articulam — e como se confundem em discussões clínicas correntes.
+
+2. A questão "há realmente uma linguagem comum em psicopatologia?" pode ter respostas diferentes conforme o nível considerado. Construa três versões da resposta: (a) considerando apenas a semiologia descritiva; (b) considerando a explicação etiológica; (c) considerando o diagnóstico nosológico.
+
+3. Um pesquisador investiga o papel de um polimorfismo genético na esquizofrenia. Em que nível ele opera? E quando o mesmo pesquisador discute a experiência subjetiva de seus participantes, em que nível ele migra? Por que essa migração precisa ser explícita?
+
+4. Compare a posição da psicopatologia descritiva no edifício da psiquiatria com a posição da semiologia clínica no edifício da clínica médica geral. O que se ganha e o que se perde com a analogia?
+
+5. O DSM-5 declara-se ateórico quanto à etiologia. Discuta: essa neutralidade é (a) possível, (b) desejável, (c) realmente alcançada? Use o conceito de "rede conceitual" do capítulo 7 para enriquecer sua resposta.
+
+6. Em que medida a psicopatologia descritiva é uma "ciência básica" da psiquiatria — no sentido em que a fisiologia é ciência básica da clínica médica? Onde a analogia funciona e onde ela falha?
+
+## Capítulo 3 — A construção histórica da psicopatologia descritiva
+
+1. Antes do século XIX, "alucinação" significava várias coisas — fantasmas, ilusões, lembranças vívidas, doença mental. **Por que isso importa** para um clínico do século XXI? Construa um argumento mostrando como essa história ainda afeta a prática hoje.
+
+2. Esquirol (1817) é creditado pela conotação atual de "alucinação". Examine: por que **esse** momento histórico? O que mudou na medicina, na sociedade e no asilo psiquiátrico para que essa estabilização conceitual fosse possível?
+
+3. A psicopatologia descritiva foi construída sobre observações de **pacientes institucionalizados**. Liste pelo menos quatro maneiras pelas quais essa amostra histórica era enviesada em relação à população atendida hoje em consultórios. Que implicações esses vieses têm para a validade clínica contemporânea dos conceitos?
+
+4. Berrios descreve a história da psicopatologia como "técnica de calibração conceitual". Explique essa metáfora. Que tipos de "calibração" continuam em curso hoje?
+
+5. Jaspers publica em 1913 a *Allgemeine Psychopathologie* e ainda hoje a chamamos de marco fundador. Por que esse texto se tornou canônico e não outros do mesmo período? O que ele oferecia que outros não ofereciam?
+
+6. A obra de Schneider transformou a fenomenologia filosófica de Jaspers em psicopatologia clínica. Discuta o que se ganhou e o que se perdeu nessa transformação. Os "sintomas de primeira ordem" exemplificam isso?
+
+7. Considere a tradição brasileira (Paim, Dalgalarrondo). Por que demorou tanto para o termo "funções mentais" aparecer nos livros-texto nacionais? Que reflexões pedagógicas isso suscita para a disciplina hoje na UFSJ?
+
+## Capítulo 4 — Categorias culturais e a ilusão da naturalidade
+
+1. "É difícil percebermos nosso próprio sotaque." Trabalhe essa analogia: o que ela ilumina sobre a forma como categorias psicopatológicas operam? Onde a analogia se quebra?
+
+2. Considere a categoria *depressão*. Argumente que ela é, **simultaneamente**, (a) uma realidade clínica reconhecível em diferentes culturas e (b) uma construção cultural específica do Ocidente moderno. Como sustentar as duas afirmações sem cair em contradição?
+
+3. Um paciente brasileiro de tradição umbandista relata experiências de incorporação. Aplique os critérios do DSM-5 e da CID-11 sobre contextualização cultural. Que perguntas você precisaria fazer antes de classificar essas experiências como sintomas dissociativos?
+
+4. A paródia do *Institute for the Study of the Neurologically Typical* descreve "neurotípicos" usando vocabulário psicopatológico. Para além do humor, o que essa inversão revela sobre o funcionamento das categorias diagnósticas? Aplique o conceito de *looping effect* (cap. 6) na sua resposta.
+
+5. Em que medida o DSM-5 — apesar de suas advertências sobre cultura — ainda é um manual **culturalmente situado** (norte-americano, anglófono, anos 2010)? Dê três exemplos de categorias em que essa situatedness se manifesta.
+
+6. Reflita: se a psicopatologia é culturalmente moldada, isso implica relativismo radical (toda categoria é arbitrária) ou há critérios não-arbitrários para avaliar sua qualidade? Justifique.
+
+## Capítulo 5 — A história conceitual dos sintomas
+
+1. Histeria foi um dos diagnósticos mais comuns do século XIX e desapareceu dos manuais contemporâneos. Trace três interpretações possíveis desse desaparecimento: (a) a histeria deixou de existir; (b) a histeria foi redistribuída em outras categorias; (c) a histeria sempre foi um artefato cultural. Defenda uma delas com argumentos.
+
+2. Compare histeria (sec. XIX), neurastenia (final do sec. XIX) e fibromialgia/burnout (sec. XX-XXI). Que estrutura comum essas categorias compartilham? Em que diferem? O que isso sugere sobre como sintomas adquirem e perdem legitimidade médica?
+
+3. O "Repouso de Weir Mitchell" para neurastenia parece hoje pitoresco. Que tratamentos atuais um clínico de 2050 olharia retrospectivamente com o mesmo olhar?
+
+4. Apresente o argumento de Hacking (1995) sobre *transient mental illnesses* — doenças mentais que existem apenas em momentos históricos específicos. Discuta exemplos contemporâneos plausíveis.
+
+5. Edward Shorter, em *From Paralysis to Fatigue*, descreve uma evolução: do sintoma motor (paralisia histérica do sec. XIX) ao sintoma de fadiga (síndromes contemporâneas). Que mudanças culturais ele invoca para explicar essa migração? Que objeções poderiam ser feitas à sua tese?
+
+6. Trillat (1986), em *Histoire de l'hystérie*, defende que histeria não desapareceu — apenas mudou de nome. Avalie esse argumento à luz das categorias contemporâneas (transtorno conversivo, transtorno de sintomas somáticos, transtorno funcional neurológico).
+
+## Capítulo 6 — Looping effects: quando categorias transformam pessoas
+
+1. Hacking distingue **classificação de coisas** (átomos, plantas) de **classificação de pessoas**. Reconstrua a distinção e explique por que ela é, na sua visão, central ou periférica para a psiquiatria.
+
+2. Liste os cinco passos do ciclo de *looping effect* descrito no capítulo. Aplique-os, passo a passo, ao caso do **TDAH** ao longo dos últimos 40 anos. O que muda na categoria? O que muda nas pessoas classificadas? O que muda na pesquisa?
+
+3. Personalidade Múltipla / Transtorno Dissociativo de Identidade é o caso paradigmático de Hacking. Reconstrua a cronologia 1970–presente. Que conclusões tirar sobre o estatuto ontológico da categoria? Ela "existe", existe "diferentemente", ou não existe?
+
+4. O conceito de **neurodiversidade**, originado na comunidade autista, é hoje incorporado por pesquisadores e clínicos. Trace o *looping effect* nesse caso. Em que isso difere — se difere — do exemplo da personalidade múltipla?
+
+5. Rom Harré complementa Hacking com a dimensão **performativa** dos sintomas. Aplique essa lente ao sofrimento em redes sociais hoje (TikTok, Instagram). Sintomas como ansiedade e depressão são, em parte, "performances sociais"? O que isso muda — se muda — para o clínico?
+
+6. Discuta a tensão ética: reconhecer *looping effects* pode parecer desautorizar o sofrimento do paciente ("é só performance, não é real"). Como evitar essa leitura redutora mantendo o ganho analítico do conceito?
+
+7. Identifique pelo menos três categorias da psicopatologia contemporânea que parecem estar **agora mesmo** passando por *looping effects* ativos. Justifique cada uma.
+
+## Capítulo 7 — A psicopatologia não é meramente descritiva
+
+1. "A observação nunca é uma atividade cognitiva inocente" (Berrios, 1989). Construa um argumento — em três parágrafos — defendendo essa afirmação a partir de um exemplo clínico concreto (sua escolha).
+
+2. O capítulo apresenta três ilusões a serem desconstruídas: (a) "apenas descrevemos o que vemos", (b) "sintomas existem independentemente de nós", (c) "descrição precede explicação". Para cada uma, formule a versão **mais forte** do contra-argumento que um realista defenderia. Em que medida essas defesas são sustentáveis?
+
+3. A psicopatologia "incorpora valores culturais ocidentais". Liste pelo menos cinco desses valores que estão **embutidos** nas categorias diagnósticas atuais. Em quais a embutimento é problemática? Em quais é defensável?
+
+4. Reflita sobre o conceito de **prática hermenêutica**. Em que isso difere de "descrição científica neutra"? Quais são as consequências metodológicas dessa diferença para a clínica e para a pesquisa?
+
+5. Aplique os estudos sobre relativismo linguístico (Lindquist 2006; Roberson 2007; Davidoff 2001) à percepção de **emoções** em contexto clínico. Que tipos de erros podem decorrer da assunção implícita de que "depressão" significa a mesma coisa em qualquer paciente?
+
+6. Discuta: se toda descrição é teoricamente carregada, isso significa que **qualquer** descrição é tão boa quanto qualquer outra? Construa uma defesa de critérios não-arbitrários para avaliar qualidade descritiva — sem recair em realismo ingênuo.
+
+## Capítulo 8 — Implicações para a prática clínica
+
+1. "Categorias são construídas, mas isso não me impede de fazer clínica." Desenvolva esse argumento — esmiuçando como o reconhecimento da construção pode **melhorar** (e não paralisar) a prática.
+
+2. A analogia "mapas e território" é central no capítulo. Explore-a: que tipos de mapas a psicopatologia oferece? Para que territórios? E o que acontece quando confundimos o mapa com o território (reificação)?
+
+3. Diagnóstico como **ato de fala performativo** — destrinche essa noção. Cite três consequências práticas (na vida do paciente, na conduta clínica, no sistema de saúde) que decorrem desse caráter performativo.
+
+4. Trabalhe os três casos do capítulo (vozes em contexto religioso; possessão afro-brasileira; quando contexto cultural **não** explica) construindo, para cada um, um roteiro de entrevista que demonstre sensibilidade contextual sem cair em relativismo paralisante.
+
+5. Como conciliar duas exigências aparentemente opostas: (a) rigor diagnóstico necessário para conduta terapêutica adequada e (b) humildade epistêmica diante das limitações das categorias? Que princípios práticos derivariam dessa conciliação?
+
+6. Considere o conceito de **diagnóstico iatrogênico** (o diagnóstico que, sendo dado, produz sofrimento adicional). Dê dois exemplos. Discuta as implicações para a formação do médico.
+
+7. Para a UFSJ, especificamente: que adaptações culturais o estudante deve fazer ao aplicar critérios do DSM-5 a pacientes do interior de Minas Gerais? Que padrões locais de expressão de sofrimento merecem atenção especial?
+
+## Capítulo 9 — Psicopatologia como prática reflexiva
+
+1. Distinga, com clareza, as três posturas: realismo ingênuo, relativismo radical, realismo crítico. Para cada uma, dê um exemplo de fala de clínico ou pesquisador que a manifesta. Defenda — com seus próprios argumentos — qual delas seu autor adota neste livro.
+
+2. "Ciência dura" vs. "prática hermenêutica informada". Por que essa formulação é preferível, segundo o capítulo, a alternativas como "ciência social" ou "arte da medicina"? Que se ganha terminologicamente com essa formulação?
+
+3. **Humildade epistêmica** é fácil de elogiar e difícil de praticar. Construa três indicadores observáveis de humildade epistêmica em um clínico — comportamentos concretos que um observador externo poderia identificar.
+
+4. A "psicopatologia como conversação inacabada" pode soar pós-moderna ou complacente. Construa uma defesa rigorosa da formulação que mostre por que ela **não é** simplesmente relativismo disfarçado.
+
+5. Tome um dos conceitos centrais da psicopatologia (a sua escolha) e mostre, ao longo da história, como ele foi sendo **recalibrado**. Em que estado está hoje? Que questões em aberto ainda o cercam?
+
+6. Sintetize: depois de ter lido os nove capítulos, qual a sua resposta à questão de abertura do livro — *o que estudamos quando estudamos psicopatologia?* Trabalhe a resposta em **um único parágrafo** denso de no máximo 200 palavras.
+
+7. Olhe para frente: que questões de psicopatologia descritiva você imagina que serão centrais nos próximos 20 anos? Por quê?
+
+---
+
+## Casos integradores
+
+Estes três casos mobilizam conceitos de múltiplos capítulos. Funcionam bem como **prova discursiva**, *Team-Based Learning* ao final de blocos do semestre, ou trabalho final da disciplina.
+
+### Caso integrador 1 — *A paciente que ouve vozes*
+
+::: {.callout-note}
+## Vinheta clínica
+
+Dona M., 58 anos, doméstica, frequentadora regular de uma igreja pentecostal em São João del-Rei, chega ao Pronto-Atendimento acompanhada pelo filho. Há três meses, ela vem relatando "ouvir vozes" — sobretudo à noite, e sobretudo a "voz de Jesus". Para ela, a experiência não é angustiante; é, ao contrário, fonte de conforto e direção. O filho está preocupado: a mãe está dormindo menos, tem doado dinheiro à igreja, e ele "leu na internet" que ouvir vozes é sinal de esquizofrenia.
+
+Você, médico de plantão, é chamado para avaliar.
+:::
+
+**Questões:**
+
+1. Quais conceitos de **psicopatologia descritiva** você precisa mobilizar para descrever o quadro de D. M.? (cap. 1, 2)
+2. Quais perguntas você fará para diferenciar uma experiência **culturalmente esperada** de um **sintoma psicótico**? (cap. 4, 8)
+3. Quais são os critérios do DSM-5 que tratam explicitamente do contexto cultural? Cite e aplique. (cap. 4)
+4. Considere a possibilidade de **dois desfechos clínicos**: (a) você diagnostica esquizofrenia e inicia antipsicótico; (b) você não diagnostica e libera com orientações. Em ambos os cenários, há *risco iatrogênico*. Discuta cada um. (cap. 6, 8)
+5. Como você comunicaria sua conclusão à paciente e ao filho? Trabalhe a comunicação como **ato performativo**. (cap. 8)
+
+### Caso integrador 2 — *O adolescente que se diz autista*
+
+::: {.callout-note}
+## Vinheta clínica
+
+João, 17 anos, estudante do 3º ano do ensino médio, vem à consulta espontaneamente. Ele afirma: "Eu acho que sou autista. Fiz uns testes online, vi vídeos no TikTok, e tudo encaixa. Preciso de laudo para a faculdade me dar direito a tempo extra na prova." Você o entrevista. Ele relata desconforto em interações sociais grandes, interesse intenso por um nicho específico de jogos de computador, dificuldade com mudanças de rotina. Não relata atrasos de linguagem, repertório motor estereotipado, nem disfunção significativa nas demais áreas. É um aluno mediano-bom, com amigos.
+:::
+
+**Questões:**
+
+1. Reconstrua o *looping effect* do **autismo** ao longo das últimas três décadas. Em que medida o pedido de João é produto desse *looping*? (cap. 6)
+2. Aplique os critérios atuais do **TEA** ao quadro de João. Ele cumpre? Por quê?
+3. Discuta a tensão entre o **direito ao autodiagnóstico** (que a neurodiversidade defende) e a **competência médica para diagnosticar**. Qual a posição do clínico aqui? (cap. 6, 8)
+4. Considere as consequências do diagnóstico como **ato performativo**: ser diagnosticado com TEA aos 17 anos tem que consequências? Não ser? (cap. 8)
+5. Reflita sobre **humildade epistêmica** neste caso. Que perguntas você ainda precisa fazer antes de qualquer conduta? (cap. 9)
+
+### Caso integrador 3 — *O laudo pericial*
+
+::: {.callout-note}
+## Vinheta clínica
+
+Você é convocado como **assistente técnico** num processo judicial. O Ministério Público pediu perícia psiquiátrica em um homem de 42 anos acusado de homicídio. O laudo do perito oficial conclui pela inimputabilidade total, baseado em diagnóstico de **transtorno delirante persecutório**. Você, advindo do paciente, leu o laudo e tem dúvidas sobre a robustez do diagnóstico.
+
+A pergunta jurídica é binária: imputável ou inimputável. A pergunta psicopatológica é mais matizada.
+:::
+
+**Questões:**
+
+1. Discuta como o conceito de **delírio** ainda hoje **não tem definição estabilizada** (Porcher 2016). Que implicações isso tem para um laudo pericial? (cap. 5, 7)
+2. O sistema jurídico exige categorização binária; a psicopatologia oferece gradações e incertezas. Como navegar essa **incompatibilidade epistemológica**? (cap. 2, 7)
+3. Considere o problema da **descrição vs. realidade**: o laudo descreve "delírio paranoide", mas o que isso significa **realmente**? Que evidências sustentam essa descrição? (cap. 1, 7)
+4. O paciente vem de um contexto socioeconômico marcado por **violência policial repetida**. Que diferença isso pode fazer na avaliação da "persecutoriedade" de suas crenças? (cap. 4, 8)
+5. Construa o **seu** laudo, em até três parágrafos, exemplificando uma **prática reflexiva**: rigorosa, contextualmente sensível, epistemicamente humilde. (cap. 9)
+
+---
+
+## Para o docente
+
+As questões deste apêndice **não foram desenhadas para avaliação somativa tradicional** (com gabarito e nota objetiva). Foram desenhadas como **convites ao pensamento** — para discussão em grupo, para escrita argumentativa, para diálogo entre docente e estudante. A qualidade de uma resposta se afere pela qualidade do **raciocínio**, não pela conformidade a um padrão.
+
+Para uma disciplina que pretenda formar clínicos reflexivos — e não apenas operadores competentes de DSM —, exercícios desse tipo são, modestamente, mais úteis que múltipla-escolha.

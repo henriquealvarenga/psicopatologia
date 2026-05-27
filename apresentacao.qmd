@@ -1,0 +1,91 @@
+---
+title: "Apresentação"
+subtitle: "Como ler este livro e o que esperar dele"
+toc: true
+number-sections: false
+---
+
+::: {.eyebrow}
+Material didático · UFSJ · Curso de Medicina
+:::
+
+## Por que este livro existe
+
+A psicopatologia descritiva é, há mais de um século, a linguagem central da clínica psiquiátrica. É com ela que descrevemos o que ouvimos do paciente, que registramos o exame do estado mental, que comunicamos hipóteses diagnósticas e que produzimos pesquisa. Sem ela, a psiquiatria não teria como existir como prática médica organizada.
+
+Mas o que parece, à primeira vista, um sistema de descrição neutro é, em seu fundamento, um produto histórico, cultural e teoricamente carregado. Os termos que usamos — *delírio*, *alucinação*, *humor*, *anormal* — não saíram da observação direta da realidade. Foram **construídos**, num momento histórico específico, sobre uma população específica, com pressupostos específicos sobre o que conta como mente e como patologia.
+
+Este livro é um convite a olhar para essa linguagem com olhos críticos: não para abandoná-la — ela é indispensável —, mas para usá-la com maior consciência de seus alcances, limites e implicações. É uma psicopatologia *reflexiva*: que descreve com rigor e, ao mesmo tempo, sabe que toda descrição é um ato.
+
+::: {.lede}
+A psicopatologia não é uma fotografia da mente — é uma gramática construída para falar dela. Aprender essa gramática inclui entender como ela foi feita, o que ela permite ver e o que ela tende a esconder.
+:::
+
+## A quem este livro se destina
+
+O texto foi escrito para **estudantes de medicina** que iniciam o estudo de psicopatologia, mas é igualmente útil para residentes em psiquiatria, psicólogos clínicos em formação e profissionais de saúde mental interessados em fundamentos epistemológicos. Pressupõe-se familiaridade básica com terminologia médica, mas nenhum conhecimento prévio de filosofia ou história da psiquiatria.
+
+## Objetivos de Aprendizagem
+
+Ao final da leitura desta primeira parte (Fundamentos epistemológicos), espera-se que o leitor seja capaz de:
+
+::: {.callout-tip}
+## Objetivos
+
+1. **Distinguir conceitualmente** Etiologia, Fisiopatologia, Psicopatologia e Nosologia — reconhecendo o que cada disciplina pode e não pode oferecer ao raciocínio clínico em saúde mental.
+
+2. **Reconhecer a evolução histórica** da psicopatologia descritiva — sua origem no século XIX europeu, sua institucionalização com Jaspers (1913), e os principais marcos conceituais até o presente.
+
+3. **Identificar as limitações epistemológicas** da psicopatologia — incluindo o problema do objeto, o viés da amostra histórica, a impossibilidade de descrição puramente ateórica e os *looping effects* das categorias diagnósticas.
+
+4. **Aplicar o método fenomenológico** de Jaspers à entrevista clínica — incluindo a distinção forma/conteúdo, a empatia compreensiva e o cuidado com o contexto cultural.
+
+5. **Adotar uma postura reflexiva** diante do uso clínico das categorias psicopatológicas — reconhecendo o diagnóstico como ato performativo, eticamente carregado, e suscetível a reificação.
+
+:::
+
+## Como o livro está organizado
+
+A **Parte I — Fundamentos epistemológicos** é composta por 9 capítulos, organizados numa progressão argumentativa:
+
+- Os capítulos **1 e 2** colocam o problema: *o que estudamos quando estudamos psicopatologia?* e *em que nível de análise operamos?*
+- Os capítulos **3, 4 e 5** trazem a dimensão **histórica e cultural**: como as categorias foram construídas, como a cultura molda o que se vê, e como os próprios sintomas têm biografia.
+- Os capítulos **6 e 7** introduzem dois conceitos críticos: os ***looping effects*** de Hacking e a tese de que **a descrição nunca é meramente descritiva**.
+- Os capítulos **8 e 9** retornam à clínica: *quais as implicações práticas?* e *o que é, afinal, uma psicopatologia reflexiva?*
+
+Cada capítulo abre com uma **questão para reflexão** (em destaque) e fecha com **leituras complementares** organizadas por tema. Os apêndices oferecem três trilhas de leitura adicional, um conjunto de exercícios discursivos e um guia para a primeira aula de psicopatologia.
+
+::: {.callout-note}
+## Como o livro deve ser lido
+
+A leitura linear (capítulos 1 a 9) é recomendada para uma primeira exposição. Cada capítulo pressupõe os anteriores, mas é também relativamente autocontido — quem retornar ao livro depois pode reler capítulos isolados como referência.
+:::
+
+## Questões que orientam a leitura
+
+As sete questões abaixo abriam o livro na sua primeira edição (2020) e seguem como espinha dorsal do projeto. Elas reaparecem, agora, distribuídas pelos capítulos onde têm peso argumentativo — abrindo cada um como provocação. Mantê-las juntas aqui ajuda a ver a unidade do livro de uma só vez:
+
+::: {.callout-important}
+## Sete questões para começar
+
+1. A psicopatologia é suficiente para caracterizar os fenômenos mentais?
+2. Há realmente uma linguagem comum?
+3. O que é psicopatologia cultural?
+4. Todo sintoma é anormal? Podemos chamar de sintoma um fenômeno comum?
+5. Por que a psicopatologia só se interessa pelos fenômenos mentais anormais?
+6. Há como distinguir um fenômeno mental anormal de um fenômeno normal? Como?
+7. Qual foi a amostra de pacientes que deu origem à psicopatologia? Em que aspectos essa amostra é diferente da população em geral?
+
+:::
+
+Nenhuma delas tem resposta única. Algumas se resolvem ao longo do livro; outras permanecem como horizontes — questões que a psicopatologia ainda discute, hoje, há mais de um século depois de Jaspers.
+
+## Uma nota sobre a 1ª e a 2ª edição
+
+A primeira edição deste material foi publicada em 2020 (ISBN 978-65-00-08881-6) como livreto introdutório à disciplina de psicopatologia do Curso de Medicina da UFSJ. Esta **segunda edição (2026)** reorganiza e amplia substancialmente o conteúdo, dividindo o que era um único capítulo introdutório em nove capítulos progressivos, adicionando capítulos sobre *looping effects*, prática reflexiva e implicações clínicas, e atualizando toda a bibliografia. Os Objetivos de Aprendizagem e as Questões para Reflexão foram preservados, por marcarem a continuidade do projeto pedagógico.
+
+---
+
+::: {.cta-block}
+[Começar pelo Capítulo 1 — O problema do objeto](capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd){.btn-read}
+:::

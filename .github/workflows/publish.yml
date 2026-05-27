@@ -1,0 +1,97 @@
+# =========================================================================
+# Publica o site Quarto no GitHub Pages usando o NOVO modelo de Pages
+# (source = "GitHub Actions"). Não cria nem usa a branch gh-pages.
+#
+# Pré-requisito (uma vez, manualmente):
+#   Settings → Pages → Build and deployment → Source: "GitHub Actions"
+#
+# Trigger:
+#   - push em main (ignora alterações que não afetam o build)
+#   - manual via "Run workflow" na aba Actions
+# =========================================================================
+
+name: Publicar (Quarto → GitHub Pages)
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**/*.md"
+      - ".gitignore"
+      - "LICENSE"
+      - "references/PDFs/**"
+  workflow_dispatch:
+
+# Permissões mínimas para o deploy-pages funcionar com OIDC.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Apenas um deploy ativo por vez; cancela runs antigas se um novo push chegar
+# antes do anterior terminar.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # -----------------------------------------------------------------------
+  # Job 1 — build: renderiza o livro Quarto e empacota o artifact de Pages
+  # -----------------------------------------------------------------------
+  build:
+    name: Renderizar livro
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # útil pro Quarto pegar datas de "last-modified"
+
+      - name: Instalar Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: "1.5.57"  # fixar a versão evita surpresas de re-render
+
+      # Cache do diretório .quarto/ — acelera renders subsequentes quando
+      # apenas alguns capítulos mudaram (freeze: auto no _quarto.yml).
+      - name: Cache do Quarto (freeze)
+        uses: actions/cache@v4
+        with:
+          path: |
+            .quarto
+            _freeze
+          key: ${{ runner.os }}-quarto-${{ hashFiles('**/*.qmd', '_quarto.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-quarto-
+
+      - name: Renderizar (HTML)
+        run: quarto render --to html
+        env:
+          QUARTO_PRINT_STACK: "true"
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload do artifact de Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # output-dir do projeto Quarto (veja _quarto.yml)
+          path: _book
+
+  # -----------------------------------------------------------------------
+  # Job 2 — deploy: publica o artifact no ambiente de Pages
+  # -----------------------------------------------------------------------
+  deploy:
+    name: Publicar no GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy para GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

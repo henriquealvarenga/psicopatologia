@@ -1,0 +1,141 @@
+project:
+  type: book
+  output-dir: _book
+
+lang: pt-BR
+language: _language-pt.yml
+
+book:
+  title: "Psicopatologia"
+  subtitle: "Uma Breve Introdução"
+  edition: "2ª edição"
+  author:
+    - name: "Henrique Alvarenga da Silva"
+      orcid: 0000-0001-9799-5240
+      email: henrique@ufsj.edu.br
+      affiliations:
+        - name: Universidade Federal de São João del-Rei (UFSJ)
+          department: Curso de Medicina
+  date: today
+  date-format: "MMMM [de] YYYY"
+
+  description: |
+    Livro-texto introdutório à psicopatologia descritiva, com foco
+    nos fundamentos epistemológicos: o problema do objeto, níveis de
+    análise, construção histórica das categorias, looping effects e
+    implicações para a prática clínica reflexiva.
+  keyword: "psicopatologia, fenomenologia, semiologia psiquiátrica, filosofia da psiquiatria, educação médica, UFSJ, Berrios, Hacking, Jaspers"
+  cover-image: images/cover.png
+  favicon: images/cover.png
+  image: images/cover.png
+
+  repo-url: https://github.com/henriquealvarenga/psicopatologia
+  repo-branch: main
+  repo-actions: [edit, issue]
+  search: true
+  sharing: [twitter, facebook, linkedin]
+  page-navigation: true
+  back-to-top-navigation: true
+
+  sidebar:
+    style: docked
+    collapse-level: 1
+    border: true
+
+  chapters:
+    - index.qmd
+    - apresentacao.qmd
+    - part: "Parte I — Fundamentos epistemológicos"
+      chapters:
+        - capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/02-niveis-analise.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/03-construcao-historica.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/04-categorias-culturais.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/05-historia-conceitual-sintomas.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/06-looping-effects.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/07-nao-meramente-descritiva.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/08-implicacoes-clinicas.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/09-pratica-reflexiva.qmd
+    - creditos.qmd
+    - references.qmd
+
+  appendices:
+    - apendices/apendice-a-leituras.qmd
+    - apendices/apendice-b-exercicios.qmd
+    - apendices/apendice-c-guia-aula.qmd
+
+  page-footer:
+    left: "© 2026 Henrique Alvarenga — Material didático UFSJ"
+    right:
+      - icon: github
+        href: https://github.com/henriquealvarenga/psicopatologia
+
+# =========================================================================
+# Bibliografia — ABNT autor-data, processada pelo Citeproc do Pandoc
+# =========================================================================
+bibliography: references/references.bib
+csl: references/csl_styles/ABNT.csl
+citeproc: true
+link-citations: true
+link-bibliography: true
+reference-section-title: "Referências"
+
+# =========================================================================
+# Formatos de saída
+# =========================================================================
+format:
+  html:
+    theme:
+      - cosmo
+      - theme-editorial.scss
+    css: styles.css
+    fontsize: 1.05em
+    linestretch: 1.65
+    mainfont: "Inter"
+    monofont: "JetBrains Mono"
+    toc: true
+    toc-depth: 3
+    toc-title: "Nesta página"
+    number-sections: true
+    number-depth: 2
+    code-fold: false
+    code-tools: false
+    smooth-scroll: true
+    citations-hover: true
+    crossrefs-hover: true
+    footnotes-hover: true
+    callout-appearance: simple
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    anchor-sections: true
+    highlight-style: github
+    link-external-newwindow: true
+    mermaid:
+      theme: neutral
+
+  # EPUB e PDF intencionalmente desabilitados no CI por enquanto.
+  # Para gerar localmente:  quarto render --to epub  ou  quarto render --to pdf
+  # epub:
+  #   cover-image: images/cover.png
+  # pdf:
+  #   documentclass: scrbook
+  #   papersize: a5
+  #   geometry:
+  #     - inner=2.5cm
+  #     - outer=2cm
+  #     - top=2cm
+  #     - bottom=2cm
+  #   fontsize: 11pt
+  #   colorlinks: true
+  #   biblio-style: abnt
+  #   cite-method: biblatex
+  #   biblatexoptions: [style=abnt, backend=biber]
+
+# =========================================================================
+# Execução de código
+# =========================================================================
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+  message: false

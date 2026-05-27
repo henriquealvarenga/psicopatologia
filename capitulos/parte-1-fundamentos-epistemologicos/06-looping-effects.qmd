@@ -1,0 +1,594 @@
+---
+title: "Looping effects: quando categorias transformam pessoas"
+---
+
+::: {.callout-important}
+## Questão para reflexão
+
+Todo sintoma é anormal? Podemos chamar de sintoma um fenômeno comum?
+:::
+
+## Introdução: Um Tipo Diferente de Classificação
+
+Até agora, vimos que:
+- Psicopatologia lida com objeto peculiar: experiência subjetiva (seção 1.1)
+- Opera em múltiplos níveis de análise (seção 1.2)
+- Foi historicamente construída (seção 1.3)
+- Suas categorias são culturalmente situadas (seção 1.4)
+- Sintomas específicos têm biografias (seção 1.5)
+
+Agora enfrentamos uma questão ainda mais perturbadora: **as próprias categorias que criamos transformam as pessoas que classificamos**.
+
+Este é o fenômeno que o filósofo **Ian Hacking** chamou de **"looping effects"** (efeitos de retroalimentação) [@hacking1995; @hacking1999].
+
+## Ian Hacking: "Making Up People"
+
+### O Argumento Central
+
+Em 1986, Ian Hacking publicou um ensaio provocativo intitulado "Making Up People" (Inventando Pessoas) [@hacking1995].
+
+Sua tese central: **classificações de pessoas são fundamentalmente diferentes de classificações de objetos naturais**.
+
+Por quê? Porque pessoas **sabem** que estão sendo classificadas, **reagem** a essas classificações, e seu comportamento **muda** em resposta — o que, por sua vez, **muda a própria categoria**.
+
+### A Diferença Fundamental
+
+**Classificando elementos químicos:**
+- Descobrimos que urânio é radioativo
+- Damos o nome "urânio"
+- O urânio **não muda** por causa do nome
+- Não fica "mais radioativo" porque o classificamos
+- Não lê livros sobre si mesmo e altera seu comportamento
+
+**Classificando pessoas:**
+- Diagnosticamos alguém com "depressão"
+- A pessoa **sabe** que foi diagnosticada
+- **Começa a se ver** como "depressiva"
+- Pode dizer: "Não consigo fazer isso, sou depressiva"
+- **Comportamento muda** por causa da categoria
+- A experiência da depressão é **moldada** pelo conceito
+
+## O Que São Looping Effects?
+
+### Definição
+
+**Looping effect (efeito de retroalimentação):**
+
+Quando criamos uma categoria para classificar pessoas, essa categoria **altera as próprias pessoas** que ela classifica — que então modificam a categoria — que muda as pessoas novamente... num **ciclo contínuo**.
+
+### O Ciclo em 5 Passos
+```
+1. Criamos uma categoria diagnóstica
+   ↓
+2. Pessoas são classificadas nessa categoria
+   ↓
+3. Elas começam a se ver através dessa categoria
+   ↓
+4. Mudam comportamento para se conformar (ou resistir) à categoria
+   ↓
+5. A categoria precisa ser ajustada para acomodar as mudanças
+   ↓
+[volta para o passo 2]
+```
+
+### Por Que Isso Não Acontece com Objetos Naturais?
+
+Hacking argumenta que há uma **assimetria fundamental** [@hacking1999]:
+
+**Objetos naturais:**
+- Indiferentes ao conhecimento humano sobre eles
+- Não interagem com suas classificações
+- Comportamento não muda por serem estudados
+
+**Pessoas:**
+- **Conscientes** de como são classificadas
+- **Internalizam** categorias como identidade
+- **Agem** com base nessas categorias
+- **Alteram** apresentação de sintomas
+
+Hacking chama isso de "classificações interativas" vs. "classificações indiferentes".
+
+## Rom Harré: A Dimensão Performativa
+
+### Complementando Hacking
+
+O psicólogo social **Rom Harré** oferece uma perspectiva complementar através da **psicologia discursiva** [@harre1996].
+
+### Emoções e Sintomas como Performances Sociais
+
+Harré argumenta que emoções (e, por extensão, sintomas) não são apenas estados internos, mas **atos performativos** — realizações socialmente situadas.
+
+**Conceitos-chave de Harré:**
+
+1. **Grammar of emotions:** Emoções têm "gramática" — regras sociais sobre quando, como, onde são apropriadas
+
+2. **Performatividade:** Expressar emoção não é apenas "reportar estado interno", mas **fazer algo** no mundo social
+
+3. **Sintomas como performances:** Sintomas psiquiátricos também têm dimensão performativa — são apresentados em contextos sociais específicos
+
+### Aplicação à Psicopatologia
+
+Se sintomas têm dimensão performativa, então:
+
+1. A **categoria disponível** molda como sintomas são expressos
+2. **Expectativas sociais** sobre a categoria influenciam apresentação
+3. Paciente e clínico **co-constroem** a apresentação através da interação
+4. Mudanças nas categorias → mudanças nas performances
+
+Isso não significa que sintomas são "fingidos" ou "não reais". Significa que a **forma** que tomam é influenciada pelo repertório conceitual e performativo disponível.
+
+## Caso Exemplar 1: Transtorno de Personalidade Múltipla
+
+### A História Mais Dramática
+
+O caso do **Transtorno de Personalidade Múltipla** (TPM) é o exemplo mais dramático de looping effects na psiquiatria.
+
+### Cronologia
+
+**1950-1970:**
+- TPM extremamente raro
+- Menos de 100 casos documentados mundialmente
+- Considerado curiosidade clínica
+
+**1973 — O Turning Point:**
+- Publicação do livro *Sybil* (Flora Rheta Schreiber)
+- História de mulher com 16 personalidades distintas
+- Enorme sucesso editorial
+
+**1976:**
+- Filme *Sybil* (Sally Field)
+- Assistido por milhões
+- TPM entra na cultura popular
+
+**1980-1995 — A Explosão:**
+- **Milhares** de casos diagnosticados, especialmente nos EUA
+- Clínicas especializadas em TPM
+- Conferências, livros, grupos de apoio
+- Número médio de "personalidades" por paciente aumenta (de 3-4 para 15-20+)
+
+**1995-2000 — O Ceticismo:**
+- Crescentes questionamentos sobre iatrogenia (sintomas causados pelo próprio tratamento)
+- Críticas a técnicas terapêuticas (hipnose, sugestão)
+- Casos de "falsas memórias" recuperadas
+
+**DSM-5 (2013):**
+- Nome muda para **"Transtorno Dissociativo de Identidade"** (TDI)
+- Critérios revisados
+- Ênfase reduzida em "personalidades" como entidades distintas
+
+**Resultado:**
+- Diagnósticos caem **dramaticamente**
+- TPM/TDI volta a ser relativamente raro
+
+### O Looping Effect em Ação
+
+**1. Categoria criada:**
+- Psiquiatras definem "transtorno de personalidade múltipla"
+
+**2. Divulgação:**
+- Categoria se torna conhecida (livro, filme)
+
+**3. Auto-reconhecimento:**
+- Pessoas começam a interpretar experiências através dessa lente
+- "Talvez meus lapsos de memória sejam outra personalidade!"
+
+**4. Comportamento muda:**
+- Pessoas desenvolvem sintomas mais elaborados
+- Criam **nomes** para personalidades
+- Desenvolvem **características distintas** para cada uma
+- Narrativas tornam-se mais complexas
+
+**5. Categoria se expande:**
+- Terapeutas veem sintomas mais complexos
+- Refinam critérios
+- Desenvolvem técnicas para "acessar" personalidades
+
+**6. Mais pessoas se identificam:**
+- Ciclo se intensifica
+- Número de personalidades aumenta
+
+**7. Ceticismo cresce:**
+- Questionamentos sobre iatrogenia
+- "O transtorno é criado pelo próprio tratamento?"
+
+**8. Categoria muda:**
+- DSM-5 revisa conceito
+- Muda nome, altera critérios
+- Ênfase diferente
+
+**9. Diagnósticos diminuem:**
+- Menos terapeutas procuram TPM
+- Menos pacientes apresentam
+- Ciclo se inverte
+
+### A Questão Provocativa
+
+O Transtorno de Personalidade Múltipla era **real** ou foi **criado** pelo conceito?
+
+**Resposta de Hacking:** Ambos — e essa é justamente a questão.
+
+Não é que pacientes **fingiam**. É que a categoria disponível **moldou** como experiências dissociativas genuínas foram organizadas e expressas.
+
+Seguindo Berrios: objetos híbridos. Parte experiência real (dissociação, trauma), parte configuração conceitual (personalidades múltiplas distintas).
+
+Quando a configuração conceitual mudou (DSM-5), a apresentação também mudou.
+
+## Caso Exemplar 2: Autismo e Neurodiversidade
+
+### A Transformação do Autismo
+
+O conceito de **autismo** passou por transformações radicais, acompanhadas de poderosos looping effects.
+
+### Cronologia Conceitual
+
+**1943 — Kanner:**
+- Leo Kanner descreve "autismo infantil precoce"
+- Critérios muito restritos
+- Considerado raro
+
+**1944 — Asperger:**
+- Hans Asperger descreve "psicopatia autística"
+- Perfil diferente de Kanner
+- Trabalho permanece pouco conhecido (alemão, guerra)
+
+**1960-1980:**
+- Autismo considerado forma de **psicose infantil**
+- Teorias psicogênicas (Bettelheim: "mães geladeira")
+- Tratamento: separação da família, psicanálise
+
+**1980 — DSM-III:**
+- Autismo separado de esquizofrenia
+- Reconhecido como transtorno do desenvolvimento
+- Critérios mais claros
+
+**1990s — Expansão:**
+- Reconhecimento da **síndrome de Asperger** (DSM-IV, 1994)
+- Conceito de **"espectro" autista** emerge
+- Critérios se ampliam
+
+**2000s — Explosão Diagnóstica:**
+- Aumento dramático de diagnósticos (50-100x em algumas regiões)
+- Debate: aumento real ou melhor detecção?
+
+**2013 — DSM-5:**
+- Conceito de **"Transtorno do Espectro Autista"** (TEA)
+- Asperger e outros subtipos fundidos em espectro único
+- Três níveis de severidade
+
+### O Looping Effect Político
+
+O que torna o autismo fascinante é que o looping effect foi **politizado** e **apropriado** pela comunidade autista.
+
+**Movimento de Neurodiversidade:**
+
+1. **Rejeição da patologização:**
+   - "Não somos doentes, somos **diferentes**"
+   - Autismo como variação neurológica, não deficiência
+
+2. **Identidade positiva:**
+   - "Eu **sou** autista" (não "tenho autismo")
+   - "Autistic pride"
+   - Valorização de características autistas
+
+3. **Crítica ao modelo médico:**
+   - Questionamento de intervenções normalizadoras
+   - Oposição a tentativas de "cura"
+   - Demanda por acomodações, não correção
+
+4. **Influência no DSM:**
+   - Pressão para mudança de terminologia
+   - Ênfase em espectro (não categorias discretas)
+   - Reconhecimento de adultos autistas
+
+**O resultado:**
+- Categoria mudou em resposta a como pessoas autistas reagiram a ela
+- Loop político: categoria → identidade → movimento social → pressão para mudar categoria
+
+### Implicações
+
+O autismo mostra que looping effects podem ser:
+- **Conscientes e deliberados** (movimento organizado)
+- **Politicamente transformadores**
+- **Bem-sucedidos** em alterar categorias oficiais
+
+## Caso Exemplar 3: Síndrome de Burnout
+
+### Emergência e Reconhecimento
+
+Vimos na seção 1.5 que **burnout** emergiu como conceito em 1974 (Freudenberger).
+
+Agora podemos ver o looping effect em ação:
+
+### O Ciclo do Burnout
+
+**1. Conceito criado (1974):**
+- Freudenberger nomeia "burnout"
+- Descreve exaustão em profissionais de saúde
+
+**2. Expansão (1980s-1990s):**
+- Maslach desenvolve inventário (MBI)
+- Pesquisa acadêmica cresce
+- Conceito se populariza
+
+**3. Auto-reconhecimento (2000s):**
+- Pessoas começam a **identificar** sua experiência como burnout
+- "Ah! É isso que tenho!"
+- Não é apenas cansaço, é **burnout**
+
+**4. Mudança comportamental:**
+- Pessoas começam a **falar** sobre ter burnout
+- Buscar tratamento específico
+- Reivindicar direitos (afastamento, acomodações)
+
+**5. Legitimação institucional:**
+- CID-11 (2019) inclui burnout
+- Empresas criam programas de prevenção
+- Políticas públicas desenvolvidas
+
+**6. Proliferação:**
+- Mais pessoas reconhecem burnout em si
+- Fronteiras se expandem ("burnout parental", "burnout acadêmico")
+- Conceito se torna parte da cultura
+
+### O Que Mudou?
+
+**Antes do conceito:**
+- Pessoas sentiam exaustão
+- Mas não tinham **linguagem específica**
+- Era "cansaço", "estresse", ou indefinido
+
+**Depois do conceito:**
+- Mesma experiência é **organizada** diferentemente
+- Ganha **legitimidade** (tem nome médico)
+- Gera **ação** (políticas, tratamentos)
+- Torna-se parte da **identidade** ("estou em burnout")
+
+**Looping effect:**
+- Conceito criou novo modo de **ser** pessoa (estar "em burnout")
+- Mudou como pessoas experienciam e expressam exaustão ocupacional
+- Legitimou sofrimento relacionado ao trabalho
+
+## Quadro Comparativo: Objetos vs. Pessoas
+
+| **Aspecto** | **Categorias Naturais** (ex: urânio) | **Categorias de Pessoas** (ex: depressivo) |
+|-------------|-------------------------------------|-------------------------------------------|
+| **Consciência** | Não sabem que foram classificadas | **Sabem** que foram classificadas |
+| **Reação** | Não mudam por causa da classificação | **Mudam** por causa da classificação |
+| **Conhecimento** | Indiferentes ao conhecimento humano | **Reagem** ao conhecimento sobre elas |
+| **Identidade** | Não internalizam categoria | Categoria pode tornar-se **identidade** |
+| **Comportamento** | Comportamento independente de classificação | Comportamento **moldado** pela categoria |
+| **Estabilidade** | Categoria permanece estável | Categoria é **alvo móvel** (moving target) |
+| **Looping effects** | **Não** | **Sim** |
+
+## Categorias como Identidades
+
+### Quando Diagnóstico Vira "Quem Eu Sou"
+
+Um aspecto crucial dos looping effects: categorias diagnósticas podem tornar-se **identidades**.
+
+**Exemplos:**
+- "Eu **sou** autista"
+- "Eu **sou** bipolar"
+- "Eu **sou** borderline"
+
+Não "eu **tenho** autismo/transtorno bipolar/TPB", mas "eu **sou**".
+
+### Por Que Isso Importa?
+
+**1. Identidade molda percepção:**
+- Ver-se como "bipolar" muda como interpretamos oscilações de humor
+- Ver-se como "autista" muda como compreendemos interações sociais
+
+**2. Identidade molda comportamento:**
+- "Não posso fazer X porque sou borderline"
+- Categoria pode limitar ou empoderar
+
+**3. Identidade gera comunidade:**
+- Comunidades se formam em torno de diagnósticos
+- Compartilhamento de experiências
+- Movimentos sociais (neurodiversidade, Mad Pride)
+
+**4. Identidade resiste a mudanças:**
+- Quando categoria é identidade, mudá-la é ameaçador
+- Resistência a reclassificações ou "curas"
+
+### O Paradoxo
+
+Categorias diagnósticas podem ser:
+- **Libertadoras:** "Finalmente entendo o que tenho! Não é culpa minha!"
+- **Aprisionadoras:** "Sou assim, não posso mudar"
+
+Ambos os efeitos podem ocorrer simultaneamente na mesma pessoa.
+
+## Implicações para Pesquisa
+
+### O Problema do "Alvo Móvel"
+
+Se categorias mudam as pessoas, e pessoas mudam as categorias, então **o que estamos estudando**?
+
+**Desafio para pesquisa:**
+
+1. **Instabilidade longitudinal:**
+   - O que era "esquizofrenia" em 1950 ≠ "esquizofrenia" em 2020
+   - Estudos longitudinais problemáticos
+
+2. **Comparações transculturais:**
+   - Mesma categoria, apresentações diferentes
+   - Depende de quanto a categoria se popularizou
+
+3. **Ensaios clínicos:**
+   - Amostras podem mudar ao longo do estudo
+   - Especialmente se diagnóstico for divulgado
+
+4. **Meta-análises:**
+   - Comparando estudos de épocas diferentes
+   - Podem estar comparando fenômenos diferentes
+
+**Como Hacking coloca:** Estamos lidando com **"moving targets"** (alvos em movimento) [@hacking1995].
+
+## Implicações Éticas e Clínicas
+
+### 1. Diagnóstico Não É Ato Neutro
+
+Diagnóstico é **performativo** — **faz algo** acontecer, não apenas descreve.
+
+**Consequências:**
+- Muda auto-percepção do paciente
+- Muda como outros veem o paciente
+- Pode estigmatizar ou legitimar
+- Pode limitar ou empoderar
+
+**Responsabilidade clínica:**
+- Estar consciente do poder do diagnóstico
+- Considerar como paciente internalizará categoria
+- Antecipar possíveis looping effects
+
+### 2. Cuidado com Reificação
+
+**Reificação:** Tratar abstração como se fosse coisa concreta.
+
+**Exemplo problemático:**
+"O autismo dele é muito severo"
+
+Isso **reifica** autismo — trata como entidade que pessoa "tem", como tumor.
+
+**Alternativa:**
+"Ele tem dificuldades significativas em X, Y, Z contextos"
+
+Foco na **experiência concreta**, não na categoria abstrata reificada.
+
+### 3. Atenção à Linguagem
+
+**Linguagem "person-first" vs. "identity-first":**
+
+**Person-first:** "Pessoa com autismo", "pessoa com esquizofrenia"
+- Ênfase: pessoa **tem** condição, não **é** a condição
+- Evita reduzir pessoa ao diagnóstico
+
+**Identity-first:** "Pessoa autista", "esquizofrênico"
+- Ênfase: condição como parte da identidade
+- Preferido por muitos autistas
+
+**Não há resposta única:**
+- Depende da condição
+- Depende da preferência da pessoa
+- **Perguntar** é a melhor prática
+
+### 4. Empoderamento vs. Aprisionamento
+
+Clínicos devem estar atentos a como diagnóstico está funcionando:
+
+**Sinais de empoderamento:**
+- "Agora entendo por que sempre tive dificuldade com X"
+- "Não é culpa minha, há uma explicação"
+- "Posso buscar ajuda específica"
+
+**Sinais de aprisionamento:**
+- "Não posso fazer nada, sou [diagnóstico]"
+- "É assim que sou, não vai mudar"
+- Rigidez, fatalismo
+
+**Intervenção:**
+- Validar experiência
+- Mas evitar reificação limitante
+- Enfatizar agência e possibilidade de mudança
+
+## Looping Effects e a Clínica: Exemplos Práticos
+
+### Exemplo 1: TDAH em Adultos
+
+**Situação:**
+Após diagnóstico de TDAH, adulto diz: "Agora entendo por que nunca consegui me organizar. Sou assim, sempre vou ser."
+
+**Possível looping negativo:**
+- Categoria vira desculpa
+- Reduz agência
+- Reforça dificuldades
+
+**Intervenção:**
+- Validar: "Sim, TDAH explica algumas dificuldades"
+- Mas: "E há estratégias específicas que ajudam"
+- Evitar fatalismo: "Você pode desenvolver formas de lidar com isso"
+
+### Exemplo 2: Transtorno de Personalidade Borderline
+
+**Situação:**
+Paciente diagnosticada com TPB diz: "Sou borderline, por isso sou instável e ninguém vai me aguentar."
+
+**Possível looping negativo:**
+- Categoria estigmatizante internalizada
+- Profecia auto-realizável
+- Desesperança
+
+**Intervenção:**
+- Validar sofrimento
+- Mas: "TPB não define quem você é"
+- Enfatizar: "DBT (terapia dialética comportamental) mostra que mudança é possível"
+- Muitas pessoas com TPB têm relacionamentos estáveis
+
+### Exemplo 3: Autismo — Looping Positivo
+
+**Situação:**
+Adolescente recém-diagnosticado autista encontra comunidade online, diz: "Finalmente me entendo! Não sou estranho, sou autista!"
+
+**Possível looping positivo:**
+- Identidade positiva
+- Comunidade de apoio
+- Auto-aceitação
+
+**Abordagem clínica:**
+- Celebrar auto-compreensão
+- Facilitar conexão com comunidade
+- Apoiar desenvolvimento de identidade positiva
+- Trabalhar acomodações, não normalização forçada
+
+## Conclusão: Ciência de Alvos em Movimento
+
+Looping effects revelam algo fundamental sobre psicopatologia: **não estamos lidando com objetos naturais inertes**.
+
+Estamos lidando com **pessoas conscientes** que:
+- Sabem que são classificadas
+- Reagem a classificações
+- Internalizam categorias
+- Mudam comportamento
+- Formam comunidades
+- Resistem ou abraçam diagnósticos
+
+Isso torna psicopatologia uma ciência de tipo **fundamentalmente diferente** da física ou química.
+
+**Não é fraqueza — é a natureza do objeto.**
+
+Como resume Hacking: não podemos simplesmente perguntar se uma categoria é "verdadeira" ou "falsa". Devemos perguntar: **que tipo de realidade ela cria?** [@hacking1999]
+
+Na próxima seção (1.7), exploraremos por que tudo isso significa que a psicopatologia **não é meramente descritiva** — é inevitavelmente **criativa** e **performativa**.
+
+---
+
+## Questões para Reflexão
+
+1. Se categorias diagnósticas transformam pessoas, isso as torna menos científicas? Por que sim ou por que não?
+
+2. O Transtorno de Personalidade Múltipla era "real" ou foi "criado" pelo conceito? Como pensar sobre essa questão?
+
+3. Quando um diagnóstico se torna identidade ("sou autista"), isso é problemático ou empoderador? Depende de quê?
+
+4. Como um clínico pode usar diagnósticos de forma que maximize empoderamento e minimize aprisionamento?
+
+5. Se todas as categorias psiquiátricas têm looping effects, como fazer ciência rigorosa nesse campo?
+
+---
+
+## Leituras Complementares
+
+**Hacking - Looping effects:**
+- Hacking, I. (1995). The looping effect of human kinds. In: *Causal Cognition*. Oxford: Clarendon Press. [@hacking1995]
+- Hacking, I. (1999). *The Social Construction of What?* Cambridge, MA: Harvard University Press. [@hacking1999]
+
+**Harré - Performatividade:**
+- Harré, R., & Parrott, W. G. (1996). *The Emotions: Social, Cultural and Biological Dimensions*. London: SAGE. [@harre1996]
+
+**Caso TPM/TDI:**
+- Hacking, I. (1995). *Rewriting the Soul: Multiple Personality and the Sciences of Memory*. Princeton: Princeton University Press.
+
+**Autismo e neurodiversidade:**
+- Chapman, R., & Carel, H. (2022). Neurodiversity, epistemic injustice, and the good human life. *Journal of Social Philosophy*, 53(4), 614-631.

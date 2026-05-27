@@ -1,0 +1,126 @@
+---
+title: "Apêndice A — Roteiro de leitura"
+subtitle: "Três trilhas para aprofundar nos fundamentos epistemológicos"
+toc: true
+number-sections: false
+---
+
+Cada capítulo deste livro fecha com uma seção própria de **Leituras Complementares**, organizadas pelo tema do capítulo. Este apêndice cumpre uma função diferente: oferecer **trilhas curatoriais** que cruzam os capítulos e organizam um percurso de aprofundamento conforme o tempo, o nível e o interesse do leitor.
+
+São três trilhas, em ordem crescente de exigência. Cada uma é construída em torno de uma pergunta e indica leituras nas quais essa pergunta foi tratada com profundidade. Não é necessário ler tudo — é necessário ler com propósito.
+
+::: {.callout-tip}
+## Como usar este roteiro
+
+Cada trilha pode ser percorrida em sequência (na ordem indicada) ou utilizada como cardápio. O tempo estimado é uma referência conservadora — leitura atenta, com anotações, costuma demorar mais.
+:::
+
+## Trilha 1 — Para começar
+
+::: {.eyebrow}
+~10 horas de leitura · materiais em português ou inglês acessível · indicada para estudantes de medicina ou residentes começando psiquiatria
+:::
+
+**Pergunta orientadora:** *O que é psicopatologia descritiva e por que ela existe?*
+
+Esta trilha responde à pergunta fundamental sem exigir bagagem prévia em filosofia da psiquiatria. Em três leituras curtas e uma mais longa, o leitor sai com vocabulário básico, contexto histórico e uma primeira ideia das limitações da disciplina.
+
+**1. Berrios, G. E. (2012). *Psicopatologia descritiva: aspectos históricos e conceituais.*** Revista Latinoamericana de Psicopatologia Fundamental, 15, 171–196. [@berrios2012]
+
+> *Por que esta leitura abre a trilha:* é o ensaio em português mais conciso e clínicamente legível de Berrios. Apresenta a tese central de toda sua obra — psicopatologia como **sistema cognitivo culturalmente calibrado**, não como descrição neutra — em ~25 páginas. Leitura essencial para entender de onde vem a postura crítica deste livro.
+
+**2. Telles-Correia, D., Saraiva, S. & Marques, J. G. (2018). *Jaspers' Phenomenology.*** Folia Medica, 60(3), 373–380. [@telles-correia2018]
+
+> *Por que entra aqui:* artigo curto e didático sobre o método fenomenológico de Jaspers, suas distinções centrais (forma/conteúdo, compreensão/explicação, empatia) e sua relevância clínica atual. Faz a ponte entre a história e o consultório.
+
+**3. Oyebode, F. (2018). *Sims Sintomas da Mente* (5ª ed.). Rio de Janeiro: Elsevier.** *Capítulos 1 e 2.* [@oyebode2018]
+
+> *Por que entra aqui:* livro-texto de psicopatologia descritiva clínica de uso corrente em residência. Os capítulos iniciais oferecem a metodologia da entrevista psicopatológica de forma sistematizada — útil como contraponto prático aos ensaios mais conceituais desta trilha.
+
+**4. Rocha Neto, H. G. et al. (2019). *Mental State Examination and Its Procedures.*** Frontiers in Psychiatry, 10, art. 77. [@rocha-neto2019]
+
+> *Por que entra aqui:* revisão narrativa em inglês sobre o desenvolvimento da semiologia psiquiátrica brasileira e a evolução do conceito de "funções mentais" nos livros-texto nacionais. Importante para o estudante brasileiro situar a tradição local.
+
+## Trilha 2 — Para aprofundar
+
+::: {.eyebrow}
+~40 horas de leitura · materiais em inglês ou português · indicada para residentes em psiquiatria, pesquisadores em saúde mental ou docentes preparando aulas
+:::
+
+**Pergunta orientadora:** *Como a linguagem da psicopatologia foi construída — e o que isso implica eticamente para a clínica?*
+
+Esta trilha leva o leitor à origem conceitual da disciplina e abre as duas críticas filosóficas mais importantes ao realismo psicopatológico ingênuo: os *looping effects* de Ian Hacking e a tese da psicopatologia como prática hermenêutica.
+
+**1. Jaspers, K. (1979). *Psicopatologia Geral.* Vol. 1.** São Paulo: Atheneu. *Parte I — capítulos sobre o método fenomenológico.* [@jaspers1979]
+
+> *Por que entra aqui:* o texto fundador. Mesmo lido em recortes (a Parte I é o núcleo metodológico), Jaspers estabelece o vocabulário que ainda usamos. A leitura é exigente — vale acompanhar com Telles-Correia (2018) e Park (2019) como guias.
+
+**2. Berrios, G. E. (1996). *The History of Mental Symptoms.*** Cambridge: Cambridge University Press. *Capítulo 1 e capítulos sobre sintomas específicos de interesse.* [@berrios1996]
+
+> *Por que entra aqui:* a obra-monumento de Berrios sobre como cada conceito da semiologia (delírio, alucinação, humor, etc.) foi historicamente construído. Não é livro para leitura linear — é referência. Ler o capítulo 1 e depois consultar os capítulos sobre os sintomas que mais interessam ao leitor.
+
+**3. Hacking, I. (1995). *The Looping Effect of Human Kinds.*** Em *Causal Cognition*, eds. Sperber, Premack & Premack. Oxford: Clarendon Press, pp. 351–394. [@hacking1995]
+
+> *Por que entra aqui:* o ensaio fundador do conceito que dá nome ao capítulo 6 deste livro. Hacking mostra por que classificar pessoas não é como classificar coisas — o classificado reage à classificação, e a categoria se transforma. Texto denso mas indispensável.
+
+**4. Ramos-Gorostiza, P. & Adán-Manes, J. (2011). *Misunderstanding Psychopathology as Medical Semiology.*** Psychopathology, 44(4), 205–215. [@ramos-gorostiza2011]
+
+> *Por que entra aqui:* artigo epistemológico que articula por que a psicopatologia **não** opera como semiologia médica clássica. Conecta diretamente com o capítulo 1 deste livro (o problema do objeto).
+
+**5. Stanghellini, G. & Broome, M. R. (2014). *Psychopathology as the basic science of psychiatry.*** British Journal of Psychiatry, 205(3), 169–170. [@stanghellini2014]
+
+> *Por que entra aqui:* editorial-manifesto curto e influente — defende a psicopatologia como ciência básica da psiquiatria, distinta de nosografia e de classificação. Duas páginas que vale a pena reler.
+
+**6. Häfner, H. (2015). *Descriptive psychopathology, phenomenology, and the legacy of Karl Jaspers.*** Dialogues in Clinical Neuroscience, 17(1), 19–29. [@hafner2015]
+
+> *Por que entra aqui:* síntese contemporânea da tradição jaspersiana por um dos seus principais herdeiros. Útil para entender a continuidade entre Jaspers, Schneider e a psiquiatria clínica atual.
+
+**7. Porcher, J. E. (2016). *The classification, definition, and ontology of delusion.*** Revista Latinoamericana de Psicopatologia Fundamental, 19, 167–181. [@porcher2016]
+
+> *Por que entra aqui:* estudo de caso filosófico — toma o delírio como exemplo para mostrar como mesmo os conceitos mais centrais da psicopatologia ainda não têm definição estabilizada. Conecta com o capítulo 5 (história conceitual dos sintomas).
+
+## Trilha 3 — Para se debater
+
+::: {.eyebrow}
+~80+ horas de leitura · materiais em inglês, francês e português · indicada para quem pesquisa filosofia da psiquiatria, antropologia médica ou para docentes orientando trabalhos de conclusão
+:::
+
+**Pergunta orientadora:** *Em que medida a linguagem molda — e não apenas descreve — o que a psicopatologia "vê"?*
+
+A trilha mais ambiciosa: leva o leitor à fronteira entre psicopatologia, filosofia da mente, antropologia linguística e história das ideias. Discutível como conjunto, deliciosa em partes.
+
+**1. Hacking, I. (1999). *The Social Construction of What?*** Cambridge, MA: Harvard University Press. [@hacking1999]
+
+> *Por que entra aqui:* a obra mais sistemática de Hacking sobre construção social. Distingue construção *causal* (de coisas) de construção *de tipos humanos* (que reagem). Leitura central para quem leva os *looping effects* a sério.
+
+**2. Sapir, E. (1949). *Culture, Language, and Personality: Selected Essays.*** Berkeley: University of California Press. (ed. D. G. Mandelbaum) [@sapir1949]
+
+> *Por que entra aqui:* a fonte clássica para discutir como a linguagem participa da estruturação da experiência. Não é citado por acaso no capítulo 7 deste livro — Sapir é fundador da chamada "hipótese Sapir-Whorf" (com seu aluno).
+
+**3. Luria, A. R. (1976). *Cognitive Development: Its Cultural and Social Foundations.*** Cambridge, MA: Harvard University Press. [@luria1976]
+
+> *Por que entra aqui:* o trabalho de campo dos anos 1930 com camponeses iletrados da Ásia Central, que mostra empiricamente como a categorização cognitiva varia com a cultura e a escolarização. Citado no capítulo 7 e diretamente conectado à crítica anti-realista da psicopatologia.
+
+**4. Conjunto sobre relativismo linguístico aplicado à percepção:** Davidoff (2001), Roberson & Hanley (2007), Lindquist et al. (2006), Athanasopoulos et al. (2009). [@davidoff2001; @roberson2007; @lindquist2006; @athanasopoulos2009]
+
+> *Por que entram aqui:* quatro estudos empíricos contemporâneos que retomam a tese de Sapir-Whorf em terreno experimental (percepção de cor, percepção de emoções). Mostram que a hipótese resiste, em forma atenuada, à crítica universalista. Importante para quem quer defender ou contestar a tese do capítulo 7.
+
+**5. Berrios, G. E. (1989). *What is phenomenology? A review.*** Journal of the Royal Society of Medicine, 82(7), 425–428. [@berrios1989]
+
+> *Por que entra aqui:* revisão histórica curta que distingue as várias "fenomenologias" em uso na psiquiatria (Husserl, Jaspers, Heidegger, Sartre, Merleau-Ponty). Indispensável para evitar confusões terminológicas em discussões avançadas.
+
+**6. Trillat, É. (1986). *Histoire de l'hystérie.*** Paris: Seghers. [@trillat1986]
+
+> *Por que entra aqui:* estudo histórico clássico sobre uma categoria que **desapareceu** dos manuais (a histeria). Caso paradigmático para discutir construção, transformação e dissolução de categorias psicopatológicas. Exige francês — vale o esforço.
+
+**7. Jardri, R., Cachia, A., Thomas, P. & Pins, D. (2013). *The Neuroscience of Hallucinations.*** New York: Springer. [@jardri2013]
+
+> *Por que entra aqui:* volume coletivo que contrasta — produtivamente — a abordagem fenomenológica com a neurocientífica das alucinações. Útil para evitar caricaturas: a crítica à psicopatologia "puramente descritiva" não implica rejeitar a neurociência.
+
+## Como combinar as três trilhas
+
+Para uma **disciplina semestral de psicopatologia**, recomenda-se a Trilha 1 como leitura obrigatória, com uma ou duas peças selecionadas da Trilha 2 distribuídas ao longo do semestre. A Trilha 3 fica como material para iniciação científica, mestrado ou seminário de pós-graduação.
+
+Para um **percurso autodirigido de leitura** (residente em psiquiatria, psicólogo clínico, médico de família com interesse em saúde mental), o caminho natural é começar pela Trilha 1, retornar a ela um ano depois com a Trilha 2, e enfrentar a Trilha 3 conforme questões específicas emergirem da prática.
+
+A bibliografia completa de todas as obras citadas está em [Referências](../references.qmd).

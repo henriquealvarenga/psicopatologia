@@ -1,0 +1,293 @@
+---
+title: "Apêndice C — Guia para a primeira aula"
+subtitle: "Roteiro didático de uma aula introdutória de 2h"
+toc: true
+number-sections: false
+---
+
+Este apêndice oferece um **roteiro detalhado** para uma aula introdutória de psicopatologia de **2 horas** (120 minutos). Foi pensado para o curso de Medicina da UFSJ, mas pode ser adaptado para disciplinas correlatas (psiquiatria, psicologia clínica, saúde mental). A espinha dorsal são os cinco **Objetivos de Aprendizagem** apresentados na [página de Apresentação](../apresentacao.qmd).
+
+::: {.callout-note}
+## Premissa pedagógica
+
+A primeira aula de psicopatologia deve **abrir o problema**, não fechá-lo. O estudante chega esperando aprender "a linguagem técnica" e sai descobrindo que essa linguagem é mais complexa — historicamente, culturalmente, eticamente — do que imaginava. O ganho não é cobrir conteúdo: é deslocar a postura epistêmica.
+:::
+
+## Objetivos da aula
+
+Ao final desta primeira aula, espera-se que o estudante seja capaz de:
+
+- Reconhecer que a psicopatologia tem um **objeto de estudo problemático** (não diretamente observável)
+- Distinguir **psicopatologia descritiva** de **psicopatologia explicativa**
+- Situar **Jaspers (1913)** historicamente como marco fundador
+- Identificar pelo menos **três limitações** da psicopatologia descritiva atual
+- **Tomar consciência** de que toda descrição clínica carrega pressupostos
+
+(Note: estes são objetivos da *primeira* aula, mais focados que os cinco objetivos do livro inteiro — que demandam todo o semestre para serem alcançados.)
+
+## Materiais necessários
+
+- Quadro branco / lousa + canetão (ou tablet projetado)
+- Projetor para slides (opcional mas recomendado)
+- Cópia impressa ou digital deste livro disponível aos estudantes
+- Cronômetro visível (para gerenciar tempo dos blocos)
+
+## Estrutura geral
+
+| Tempo | Bloco | Atividade dominante |
+|-------|-------|---------------------|
+| 0–15  | Abertura provocativa | Pergunta + discussão coletiva |
+| 15–35 | Contextualização histórica | Exposição dialogada |
+| 35–55 | Caso clínico estruturante | Trabalho em pequenos grupos |
+| 55–65 | **Intervalo** | — |
+| 65–90 | Conceitos centrais | Exposição com perguntas |
+| 90–110 | Limitações e crítica | Discussão em plenária |
+| 110–120 | Fechamento + tarefa | Síntese + leitura para próxima aula |
+
+## Bloco 1 — Abertura provocativa (15 min)
+
+::: {.callout-tip}
+## Objetivo do bloco
+
+Instaurar o estranhamento. O estudante deve sair desses 15 minutos sentindo que "psicopatologia" não é uma matéria tão simples quanto parecia.
+:::
+
+**Roteiro:**
+
+1. **(0:00 – 0:02)** Apresentação muito breve do docente. Sem detalhes biográficos.
+
+2. **(0:02 – 0:05)** Escrever na lousa, em letras grandes:
+
+   > **"O coração tem quatro câmaras. E a mente?"**
+
+3. **(0:05 – 0:12)** **Pergunta aberta à turma:**
+   *"Se eu pedir para vocês descreverem o coração, vocês conseguem. Se eu pedir para descreverem a mente, o que vocês fazem? Como começam?"*
+
+   Deixar a turma falar. Anotar palavras-chave na lousa (cérebro, pensamentos, sentimentos, consciência, comportamento, etc.). Sem corrigir, sem julgar — apenas registrando.
+
+4. **(0:12 – 0:15)** **Provocação de fechamento:**
+   *"A medicina conseguiu descrever o coração com tanta precisão que dois cardiologistas nunca discordam sobre o número de câmaras. Mas dois psiquiatras podem perfeitamente discordar sobre se um paciente está delirando. Por quê?"*
+
+   Não responder. **Deixar a pergunta aberta** — ela será respondida ao longo do semestre.
+
+## Bloco 2 — Contextualização histórica (20 min)
+
+::: {.callout-tip}
+## Objetivo do bloco
+
+O estudante deve sair sabendo (a) que a psicopatologia é uma disciplina **historicamente recente** (~150 anos), (b) que **Jaspers** é o marco fundador, (c) que ela emergiu num contexto institucional específico (asilo, séc. XIX).
+:::
+
+**Roteiro:**
+
+1. **(15:00 – 15:08)** **Linha do tempo na lousa.** Desenhar uma linha horizontal com cinco marcos:
+
+   ```
+   Hipócrates     Pinel          Esquirol         Jaspers          DSM-III
+   (séc. V a.C.)  (1801)         (1817)           (1913)           (1980)
+   ```
+
+   Para cada marco, mencionar em 1 frase o que está em jogo. **Não dar palestra de história** — apenas situar.
+
+2. **(15:08 – 15:18)** **Foco em Esquirol (1817).** Antes de 1817, a palavra "alucinação" significava várias coisas — fantasma, ilusão de ótica, lembrança vívida, doença mental. Em 1817, Esquirol fixa o sentido contemporâneo: *percepção sem objeto*.
+
+   **Pergunta à turma:** *"Por que esse momento histórico, e não outro?"* (Resposta esperada: emergência do asilo psiquiátrico, possibilidade de observação sistemática, medicina como ciência. Conduzir a discussão se necessário.)
+
+3. **(15:18 – 15:32)** **Jaspers, 1913.** Apresentar a *Allgemeine Psychopathologie* como marco. Mencionar:
+
+   - Filósofo **e** psiquiatra
+   - Introduziu o **método fenomenológico** na psiquiatria
+   - Distinguiu **forma** (alucinação auditiva, por exemplo) de **conteúdo** (o que a voz diz)
+   - Distinguiu **compreensão** (empatia) de **explicação** (causalidade)
+
+   Reforçar: *"A linguagem que vocês vão aprender ao longo do curso foi, em boa parte, construída por Jaspers e refinada nos 100 anos seguintes. Antes dele, a psiquiatria descrevia comportamentos. Depois dele, descreve **experiências**."*
+
+4. **(15:32 – 15:35)** **Pergunta de transição:**
+   *"E os pacientes que Jaspers e seus contemporâneos descreviam — quem eram?"*
+
+## Bloco 3 — Caso clínico estruturante (20 min)
+
+::: {.callout-tip}
+## Objetivo do bloco
+
+Mobilizar os estudantes em torno de um caso que reúne os elementos da provocação inicial: subjetividade, contexto, ambiguidade descritiva.
+:::
+
+**Caso para distribuir** (impresso, projetado ou ditado):
+
+::: {.callout-note}
+## Vinheta
+
+Marcelo, 19 anos, estudante de medicina (vocês), chega à enfermaria de psiquiatria como observador. O paciente do leito 3, Sr. José, 54 anos, diz a Marcelo: *"Doutor, eu sei que o meu vizinho está colocando câmeras nas paredes da minha casa. Eu sinto que ele tá me vigiando. Não sei o que fazer."*
+
+Marcelo anota no prontuário: *"paciente delirante."*
+:::
+
+**Atividade em grupos de 4–5 (15 min):**
+
+Cada grupo discute:
+
+1. Marcelo está certo em escrever "delirante"? Que informações faltam?
+2. Que perguntas Marcelo deveria fazer ao Sr. José antes de classificar a fala?
+3. Se descobrirmos que o vizinho **realmente** instalou câmeras (o que pode acontecer), Marcelo continua certo?
+4. Se descobrirmos que o vizinho não instalou nada, mas o Sr. José cresceu em um bairro com vigilância policial intensa, isso muda algo?
+
+**Síntese em plenária (5 min):**
+
+- Reunir 2-3 grupos para compartilhar
+- Conduzir a discussão **sem fechar a resposta**. O ponto não é resolver o caso — é mostrar que "delirante" não é uma descrição transparente. Depende de contexto, perguntas adicionais, juízos de valor, expectativas culturais.
+
+## Intervalo (10 min)
+
+## Bloco 4 — Conceitos centrais (25 min)
+
+::: {.callout-tip}
+## Objetivo do bloco
+
+Apresentar os quatro conceitos que estruturarão toda a disciplina: **etiologia, fisiopatologia, psicopatologia, nosologia**. Distinguir descritiva de explicativa. Introduzir forma vs. conteúdo.
+:::
+
+**Roteiro:**
+
+1. **(65:00 – 65:08)** **Os quatro níveis.** Desenhar tabela na lousa:
+
+   | Nível | Pergunta que faz | Exemplo (em depressão) |
+   |-------|------------------|------------------------|
+   | Etiologia | *Por que adoeceu?* | Genética, vivências, perdas |
+   | Fisiopatologia | *Como o adoecimento opera no organismo?* | Serotonina, eixo HHA, conectividade |
+   | Psicopatologia | *Como o paciente experimenta o adoecimento?* | Tristeza, anedonia, lentificação |
+   | Nosologia | *Em que categoria isso entra?* | Transtorno depressivo maior |
+
+   Reforçar: *"São perguntas distintas, com métodos distintos, em níveis distintos. A psicopatologia é o nosso nível principal nesta disciplina."*
+
+2. **(65:08 – 65:15)** **Descritiva × explicativa.** Esclarecer:
+
+   - **Descritiva:** descreve o fenômeno como aparece à consciência do paciente. Não pergunta por que. *(Esta é a tradição jaspersiana, e é o foco do nosso curso.)*
+   - **Explicativa:** busca causas. *(Outras disciplinas — psicofarmacologia, neurociência, psicanálise, sociologia — fazem isso.)*
+
+   Diagrama na lousa: a descrição é o **chão comum** sobre o qual as explicações se constroem.
+
+3. **(65:15 – 65:23)** **Forma vs. conteúdo.** A grande contribuição de Jaspers:
+
+   - **Forma:** o tipo de fenômeno (alucinação auditiva, delírio paranoide, anedonia)
+   - **Conteúdo:** o que é dito/sentido/pensado especificamente (a voz fala em vingança, o delírio é de ciúmes, a tristeza tem o tema do luto)
+
+   *"Em psicopatologia, a forma importa mais que o conteúdo. Saber que o paciente alucina é mais diagnóstico do que saber que a voz diz X ou Y."*
+
+   **Pergunta de checagem:**
+   *"Quem ouve 'a voz do parente morto, três meses após o funeral' tem que forma de psicopatologia?"* (Resposta: pode ser alucinação, mas pode ser também experiência de luto culturalmente esperada. A forma sozinha não fecha o caso — o contexto importa.)
+
+4. **(65:23 – 65:25)** **Exame do Estado Mental** — mencionar muito brevemente. Não detalhar (será matéria de outra aula). Apenas dizer:
+
+   *"Vocês vão aprender a descrever sistematicamente: aparência, comportamento, fala, humor, afeto, pensamento, percepção, cognição, juízo crítico. Esse é o instrumento. Antes dele, vocês precisam entender o que ele faz — e o que ele não faz."*
+
+5. **(65:25 – 65:30)** **Pergunta de transição:**
+   *"Se essa linguagem é tão refinada, por que os manuais mudam tanto a cada edição? Por que o DSM-IV é diferente do DSM-5? Por que algumas categorias desaparecem (histeria) e outras aparecem (TEA)?"*
+
+   **Não responder.** Próximo bloco.
+
+## Bloco 5 — Limitações e crítica (20 min)
+
+::: {.callout-tip}
+## Objetivo do bloco
+
+Apresentar as três limitações principais da psicopatologia descritiva — e desinstalar a ideia de que a disciplina é uma fotografia neutra da realidade mental.
+:::
+
+**Roteiro:**
+
+1. **(90:00 – 90:07)** **Limitação 1 — Amostra histórica enviesada.**
+
+   A linguagem foi construída em asilos do século XIX. Pacientes institucionalizados, gravemente doentes, marginalizados. Quando aplicamos essa linguagem hoje a alguém com **sintomas leves** ou em **contexto comunitário**, podemos estar usando uma ferramenta desenhada para outra coisa.
+
+   Citar dado de Johns 2002: ~25% das pessoas que relatam alucinações têm diagnóstico psiquiátrico. **Maioria não tem.** O que isso diz sobre a categoria?
+
+2. **(90:07 – 90:14)** **Limitação 2 — A linguagem molda o que se vê.**
+
+   Mencionar Luria, Sapir, estudos contemporâneos de percepção. Diferentes culturas categorizam diferente — cores, emoções, comportamentos. A psicopatologia também é cultural.
+
+   Exemplo concreto: experiências de "incorporação" em religiões afro-brasileiras. Sintoma dissociativo? Vivência espiritual? **Depende de quem descreve, com qual linguagem, em qual contexto.**
+
+3. **(90:14 – 90:18)** **Limitação 3 — Looping effects.**
+
+   Categorias diagnósticas **transformam as pessoas que classificam**. Quando o "TDAH" virou diagnóstico comum, mais pessoas se identificaram com ele, comportamentos foram interpretados sob essa lente, a categoria mudou. (Hacking)
+
+   *"Não é assim que se classifica átomos. Átomos não reagem ao nome que damos a eles. Pessoas, sim."*
+
+4. **(90:18 – 90:20)** **Síntese:**
+
+   *"Vocês vão aprender essa linguagem porque ela é necessária para fazer psiquiatria. Mas vão aprender também a olhar para ela com olhos críticos. Não dá para ser bom clínico sem saber dela. E não dá para ser bom clínico sem saber dos seus limites."*
+
+## Bloco 6 — Fechamento e tarefa (10 min)
+
+1. **(110:00 – 110:05)** **Recapitulação.** Voltar à pergunta do começo:
+
+   *"Por que dois psiquiatras podem discordar sobre se alguém está delirando? Vocês têm hoje pelo menos três caminhos para responder:*
+   - *Porque o objeto da psicopatologia não é diretamente observável (problema do objeto)*
+   - *Porque a linguagem é historicamente situada e culturalmente carregada*
+   - *Porque toda descrição traz pressupostos teóricos invisíveis"*
+
+2. **(110:05 – 110:08)** **Provocação final.** Anunciar a pergunta da próxima aula:
+
+   *"Se a psicopatologia é tão problemática, por que ainda usamos? Por que ela funciona, na prática clínica? Essa é a pergunta da próxima semana."*
+
+3. **(110:08 – 110:10)** **Tarefa.** Indicar:
+
+   - **Leitura obrigatória:** [Capítulo 1 — O problema do objeto](../capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd)
+   - **Exercício de escrita curta** (1 página, para entregar na próxima aula): *"Descreva uma experiência que você teve ou observou de alguém em sofrimento psíquico. Tente usar linguagem o mais descritiva possível. Depois, releia o que escreveu e identifique pelo menos três decisões interpretativas que você fez sem perceber."*
+
+## Variações e adaptações
+
+### Para aula de 1h em vez de 2h
+
+Cortar o Bloco 3 (caso clínico) e o Bloco 5 (limitações), distribuindo elementos essenciais nos demais. **Mas não recomendo** — a aula perde seu eixo pedagógico (o estranhamento provocado pelo caso) e vira aula expositiva tradicional.
+
+Melhor alternativa: dividir o conteúdo em **duas aulas de 1h**. Aula 1 = Blocos 1–3 + intervalo + síntese parcial. Aula 2 = Blocos 4–6 com revisão breve no início.
+
+### Para turmas pequenas (até 15 alunos)
+
+Substituir a discussão em pequenos grupos do Bloco 3 por **discussão em plenária ampliada**. Cada estudante tem voz. Tempo total se mantém.
+
+### Para turmas grandes (acima de 60 alunos)
+
+O Bloco 3 funciona melhor com **clickers** ou ferramentas como Mentimeter — para captar respostas individuais antes da plenária. A síntese final deve ser mais dirigida pelo docente.
+
+### Para residência de psiquiatria (R1)
+
+Os Blocos 4 e 5 podem ser **expandidos**. Os residentes já vêm com bagagem clínica; a aula pode aprofundar mais nas tensões epistemológicas — particularmente os *looping effects* e o caráter performativo do diagnóstico — sem perder os iniciantes pelo caminho.
+
+## Avaliação formativa da aula
+
+Ao final da aula, dedicar **2 minutos** para um *one-minute paper*:
+
+::: {.callout-tip}
+## *One-minute paper*
+
+Pedir que cada estudante escreva, num papel sem identificação:
+
+1. **Uma coisa** que aprendeu hoje
+2. **Uma coisa** que ficou confusa
+3. **Uma coisa** que gostaria de discutir mais a fundo
+
+Coletar. Ler antes da próxima aula. Usar para ajustar a sequência didática.
+:::
+
+Esse instrumento simples é mais útil do que prova ao final da disciplina para calibrar a aula em curso.
+
+## Leituras do docente antes da aula
+
+Para preparar esta aula com profundidade, recomenda-se ao docente revisar:
+
+- [Capítulos 1 a 3](../capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd) deste livro (cobrem o conteúdo conceitual)
+- O ensaio de Berrios (2012) sobre psicopatologia descritiva [@berrios2012]
+- O artigo de Telles-Correia et al. (2018) sobre Jaspers [@telles-correia2018]
+
+Estimativa de tempo de preparação: **2 a 3 horas** na primeira vez. Em ofertas subsequentes, ~1 hora para releitura e ajustes.
+
+---
+
+::: {.callout-important}
+## Princípio final
+
+A primeira aula não é o lugar para ensinar **toda** a psicopatologia descritiva. É o lugar para **abrir** o problema. O estudante que sai pensando *"essa matéria é mais interessante e mais difícil do que eu esperava"* já saiu transformado pela aula. O resto do semestre é construído sobre essa transformação.
+:::

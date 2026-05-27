@@ -1,0 +1,332 @@
+---
+title: "A construção histórica da psicopatologia descritiva"
+---
+
+::: {.callout-important}
+## Questão para reflexão
+
+Por que a psicopatologia só se interessa pelos fenômenos mentais anormais?
+:::
+
+## Introdução: Uma Linguagem com História
+
+A psicopatologia descritiva não sempre existiu. Os termos que hoje usamos com naturalidade — "alucinação", "delírio", "obsessão", "mania", "depressão" — nem sempre tiveram os significados atuais. Muitos sequer existiam há dois séculos.
+
+A linguagem da psicopatologia foi **construída** ao longo de aproximadamente um século, desde a segunda década do século XIX até o início do século XX [@berrios1996]. E, ao contrário do que poderíamos imaginar, modificou-se muito pouco depois disso [@berrios1996].
+
+Esta seção conta a história dessa construção — não por curiosidade antiquária, mas porque compreender a **gênese histórica** de nossos conceitos é fundamental para entender seus **limites atuais**.
+
+## O Contexto: Medicina do Século XIX
+
+### O Problema da Linguagem Imprecisa
+
+No início do século XIX, a medicina mental enfrentava um problema fundamental: **não havia uma linguagem adequada** para descrever os fenômenos psicopatológicos.
+
+Os termos disponíveis eram demasiado gerais e incapazes de descrever refinadamente a experiência ou vivência dos fenômenos mentais [@berrios2012]. Palavras como "loucura", "insanidade", "mania", "melancolia" eram usadas de forma vaga e inconsistente. O termo "alucinação", por exemplo, podia significar tanto uma doença mental quanto uma síndrome — não havia distinção clara entre sintomas e doenças [@berrios1996].
+
+Era como se a medicina tentasse praticar cirurgia sem ter nomes específicos para órgãos, ou cardiologia sem vocabulário para descrever diferentes tipos de arritmias.
+
+### A Necessidade de Fragmentação
+
+A medicina do século XIX começou a perceber a importância da **descrição refinada** das manifestações da doença [@berrios2012]. Para a medicina mental, isso significava fragmentar o comportamento e a experiência dos pacientes em unidades menores e analisáveis.
+
+Essa fragmentação, que hoje nos parece natural, foi uma **inovação radical**. Até então, pacientes eram descritos de forma holística: "ele está louco", "ela está melancólica", "ele é maníaco". Não havia análise sistemática de **componentes** da experiência mental.
+
+A psicopatologia descritiva nasceu desse projeto de fragmentação e análise sistemática.
+
+## A Tarefa Declarada: Identificar e Nomear
+
+Como formulou Jaspers décadas depois, a tarefa da psicopatologia tem sido, desde seu início, a de identificar **"classes de atos mentais anormais"**, criando nomes para cada um desses atos [@jaspers1979].
+
+Para levar adiante essa proposta, o comportamento e a experiência dos pacientes passaram a ser analisados de forma fragmentada [@berrios2012]:
+
+- **Percepção:** alucinações, ilusões, distorções perceptivas
+- **Pensamento:** delírios, pensamento desorganizado, obsessões
+- **Linguagem:** neologismos, parafasias, mutismo
+- **Humor:** depressão, euforia, irritabilidade, embotamento afetivo
+- **Memória:** amnésias, confabulações, falsos reconhecimentos
+- **Consciência:** estados confusionais, dissociações, despersonalização
+
+Cada um desses domínios foi sendo progressivamente refinado, com termos cada vez mais específicos para capturar nuances da experiência.
+
+## O Processo de Calibração (1820-1920)
+
+### Um Século de Construção
+
+A linguagem da psicopatologia descritiva foi construída e calibrada ao longo de **aproximadamente 100 anos** [@berrios1996; @berrios2012].
+
+Os descritores (ou conceitos) que se mostravam **úteis** eram mantidos — como o conceito de "delírio". Outros eram **descartados** — como o conceito de "alucinações unilaterais" [@berrios2012]. 
+
+Este foi um processo de **seleção pragmática**: conceitos sobreviviam não necessariamente porque eram "verdadeiros" no sentido de corresponderem a entidades naturais reais, mas porque eram **úteis** para comunicação clínica, para ensino, para prognóstico.
+
+### Reorganização em Síndromes
+
+Ao final do século XIX, os sintomas sobreviventes foram reorganizados em síndromes [@berrios1996]:
+
+- Alguns **permaneceram** praticamente iguais ao que eram antes da fragmentação: *delirium*, por exemplo
+- Outros constituíram **novas configurações**: insanidade maníaco-depressiva (Kraepelin), transtornos obsessivos
+- Alguns termos clássicos foram **reaproveitados**, mas com significado diferente: mania, melancolia, paranoia, demência, estupor
+
+Ao final de um século de calibração, **apenas um pequeno número de termos sobreviveu** [@berrios1996]. A linguagem que temos hoje é o resíduo desse longo processo de seleção.
+
+## Exemplos de Transformações Semânticas
+
+### O Caso Paradigmático: "Alucinação"
+
+A história do termo "alucinação" ilustra bem como conceitos mudam radicalmente de significado.
+
+**Século XVI:** 
+O termo era usado para denotar "fantasmas e espíritos caminhando à noite, e barulhos estranhos, rachaduras e diversos encaminhamentos, que geralmente acontecem antes da morte de homens, grandes matanças e alterações de reinos" [@blom2010].
+
+**Séculos XVII-XVIII:**
+"Alucinação" foi usado com diversos outros significados: doença mental, equívocos da percepção, ilusões, lembranças vívidas [@blom2010].
+
+**1817 — A Virada:**
+Foi apenas em 1817 que o termo passou a ser usado com sua **conotação atual**, através da contribuição do psiquiatra francês Jean-Étienne-Dominique Esquirol [@berrios1996; @jardri2013].
+
+Esquirol definiu alucinação como: **"percepção sem objeto"** — uma experiência perceptiva que ocorre na ausência de um estímulo externo correspondente.
+
+Essa definição, com pequenas variações, é a que usamos até hoje. Mas levou **séculos** para se estabilizar, e não há garantia de que permanecerá inalterada nos próximos séculos.
+
+### Outros Termos que Mudaram
+
+**Mania:**
+- **Antiguidade:** Qualquer forma de loucura ou excitação
+- **Hoje:** Estado de humor elevado, hiperatividade, aceleração do pensamento
+
+**Melancolia:**
+- **Antiguidade:** Excesso de "bile negra" (teoria humoral)
+- **Século XIX:** Tristeza patológica profunda
+- **Hoje:** Substituída largamente por "depressão" (termo antes reservado a rebaixamento motor)
+
+**Demência:**
+- **Século XVIII-XIX:** Qualquer deterioração mental crônica
+- **Kraepelin:** "Dementia praecox" = início precoce de deterioração (depois renomeada esquizofrenia)
+- **Hoje:** Deterioração cognitiva adquirida, geralmente em idosos
+
+Esses exemplos mostram que **não há estabilidade semântica garantida**. Os termos mudam, e com eles muda o que "vemos" nos pacientes.
+
+## A Confusão Conceitual do Início do Século XX
+
+No início do século XX, ainda havia uma **grande confusão conceitual e terminológica** na psiquiatria [@ramos-gorostiza2011]. Diferentes autores usavam os mesmos termos com significados distintos. Diferentes escolas nacionais (francesa, alemã, inglesa) tinham vocabulários parcialmente incompatíveis.
+
+Vários autores começaram a considerar necessário um grande esforço para criar uma **"linguagem científica"** para a psiquiatria [@ramos-gorostiza2011]. Uma nova linguagem precisava ser construída não só para propiciar descrição precisa, mas para tornar possível a **análise da experiência subjetiva** [@berrios2012].
+
+## 1913: O Divisor de Águas
+
+### Karl Jaspers e a *Allgemeine Psychopathologie*
+
+O auge desse processo de sistematização se deu em **1913**, com a publicação da obra *Allgemeine Psychopathologie* (Psicopatologia Geral) de Karl Jaspers [@jaspers1913].
+
+O livro de Jaspers é considerado **um divisor de águas** na clínica psiquiátrica [@hafner2015]. Ele forneceu:
+
+1. Uma **sistematização** do conhecimento psicopatológico disperso
+2. Um **método** (fenomenológico) para abordar a experiência subjetiva
+3. Uma **filosofia** da psicopatologia (distinção compreensão/explicação)
+4. Uma **linguagem** mais precisa e conceitualmente clara
+
+### Recepção e Influência Global
+
+A obra foi traduzida em inúmeras línguas [@hafner2015; @park2019]:
+
+- Francês (1928)
+- Espanhol (1950)
+- Japonês (1953)
+- Italiano (1963)
+- Inglês (1963)
+- Português (1973)
+- Russo (1997)
+- Coreano (2013)
+
+Jaspers continuou revisando a obra **oito vezes** após a primeira edição. A nona e última edição foi publicada em 1973, **quatro anos depois de sua morte** em 1969 [@park2019].
+
+### Kurt Schneider: Do Filosófico ao Clínico
+
+Embora Jaspers tenha fornecido os fundamentos, sua fenomenologia filosófica era **difícil de aplicar** na clínica psiquiátrica da época [@huber2002].
+
+Coube a seu discípulo **Kurt Schneider** transformar a psicopatologia fenomenológica e filosófica de Jaspers numa **psicopatologia clínica** aplicável [@huber2002].
+
+O livro de Schneider, *Psicopatologia Clínica*, foi uma síntese mais acessível da *Psicopatologia Geral* de Jaspers e se tornou o **livro didático formativo** da psiquiatria alemã por várias décadas [@hafner2015].
+
+Uma das contribuições mais conhecidas de Schneider foram seus **"sintomas de primeira ordem"** — uma série de sintomas psicopatológicos que ele considerava particularmente indicativos de esquizofrenia. Embora muito dessa obra já tenha sido superada, a ideia de que um **conjunto específico de sintomas** seria importante para diagnóstico sobrevive até hoje nos critérios do DSM e da CID.
+
+## A Psicopatologia Descritiva Hoje
+
+A psicopatologia descritiva baseada no método delineado por Jaspers é **ainda a forma mais frequentemente praticada** na psiquiatria clínica [@hafner2015]. Continua sendo uma ferramenta indispensável para a realização de diagnósticos baseados em critérios de sinais e sintomas.
+
+Apesar de datar de mais de um século, é um instrumento ainda **recente** na história da medicina quando comparado à semiologia médica em geral.
+
+### A Situação no Brasil
+
+No Brasil, a sistematização da psicopatologia descritiva é ainda mais recente.
+
+O primeiro livro-texto de psicopatologia editado por um autor brasileiro foi publicado em **1969** por Isaías Paim [@rocha-neto2019]. Mas ainda não havia nessa obra:
+- Uma clara divisão das funções mentais
+- Uma lista sistemática das funções mentais
+- Nem mesmo o uso do termo "funções mentais"
+
+O uso do termo **"funções mentais"** aparece pela primeira vez em livros-textos nacionais na obra de **Dalgalarrondo**, há pouco mais de duas décadas [@rocha-neto2019]. 
+
+Há ainda uma **grande variação** em como os autores nacionais dividem e organizam essas funções [@rocha-neto2019]. Ou seja, mesmo na segunda década do século XXI, não há consenso completo sobre a estrutura básica da psicopatologia descritiva no Brasil.
+
+## De Onde Vieram Esses Conceitos? O Problema da Amostra
+
+Um aspecto crucial que devemos considerar: **de onde** vieram os conceitos da psicopatologia descritiva? Quem foram os pacientes observados?
+
+### A Amostra Original: Pacientes Institucionalizados
+
+A linguagem da psicopatologia foi construída principalmente a partir de observações de **pacientes institucionalizados** — ou seja, pessoas internadas em asilos e manicômios [@berrios1996].
+
+Essa é uma **amostra bastante enviesada** e muito diferente da população que hoje procura tratamento em consultórios de psiquiatria ou psicologia.
+
+**Características dessa amostra:**
+- Gravidade extrema dos sintomas
+- Cronicidade (muitos institucionalizados por décadas)
+- Isolamento social prolongado
+- Ausência de tratamentos efetivos
+- Frequentemente incluía pessoas com deficiência intelectual, demências, sequelas de neurossífilis, entre outras condições
+
+### Consequências do Viés de Amostragem
+
+Como esses pacientes eram considerados "loucos" ou "insanos", os fenômenos mentais vivenciados por eles eram interpretados como **sintomas de doenças**, ou seja, fenômenos **anormais e patológicos**.
+
+Fazia sentido, nesse contexto, criar uma linguagem para descrever "fenômenos anormais" — uma **psicopatologia**. Parecia que seria fácil distinguir o normal do anormal: afinal, os sintomas dos pacientes asilados eram bastante diferentes da população geral.
+
+**Mas o tempo mostrou que a situação é bem mais complexa.**
+
+Hoje sabemos que muitos fenômenos descritos como "sintomas" podem ocorrer em pessoas sem nenhum transtorno mental:
+
+- **Alucinações auditivas:** Alguns estudos mostram que apenas 25% daqueles que apresentam alucinações têm algum diagnóstico psiquiátrico [@johns2002]. Alucinações ocorrem em contextos religiosos, culturais, e em situações de privação de sono ou estresse extremo.
+
+- **Experiências incomuns de pensamento:** Muitas pessoas na população geral têm experiências que seriam classificadas como "ideias de referência" ou "pensamento mágico" sem prejuízo funcional.
+
+- **Variações de humor:** Oscilações intensas de humor ocorrem em contextos não patológicos.
+
+O que parecia uma **divisão clara** entre "normal" e "anormal" revelou-se um **continuum** complexo.
+
+## Problemas Decorrentes da Construção Histórica
+
+### 1. Conceitos Datados
+
+A linguagem foi criada há mais de um século, num mundo bastante diferente de hoje, num momento histórico em que os conceitos de normal e anormal eram aceitos sem os questionamentos atuais [@berrios2012].
+
+Utilizar essa linguagem **sem avaliação crítica** de suas origens e limites pode ser inapropriado [@berrios2012].
+
+### 2. O Próprio Nome: "Psicopatologia"
+
+O próprio nome da disciplina carrega um preconceito: **psicopatologia** = estudo dos fenômenos **anormais**.
+
+Há uma pré-conceitualização de que o fenômeno estudado é **patológico**. Mas hoje sabemos que muitos fenômenos descritos pela psicopatologia podem ser encontrados na população geral sem representar nenhuma anormalidade.
+
+Seria mais apropriado falar em "psicologia descritiva" ou "fenomenologia da experiência mental"? Talvez. Mas o termo "psicopatologia" está consolidado.
+
+### 3. Conceitos Sem Definição Consensual
+
+Mesmo conceitos centrais permanecem **controversos**.
+
+O **delírio**, por exemplo, já foi considerado "a característica básica da loucura", mas não possui até hoje um conceito definitivo e preciso [@porcher2016]. Diferentes autores enfatizam diferentes aspectos:
+
+- Crença falsa?
+- Crença inabalável?
+- Crença bizarra?
+- Crença que não pode ser explicada pelo contexto cultural?
+
+Nenhuma dessas definições é completamente satisfatória, e todas enfrentam contraexemplos.
+
+### 4. A Ilusão da Neutralidade Teórica
+
+Como veremos com mais detalhe na seção 1.7, a psicopatologia descritiva **não é tão descritiva** quanto pretende ser.
+
+Ela é usualmente caracterizada como **ateórica** — ou seja, pretende descrever sem se basear em teorias ou suposições pré-estabelecidas [@oyebode2018].
+
+**Mas isso é uma ilusão.**
+
+Como observou Berrios: "a observação nunca é uma atividade cognitiva inocente" [@berrios1996]. Toda descrição dos fenômenos mentais se fundamenta em **suposições sobre a natureza do comportamento**.
+
+A psicopatologia descritiva é, na verdade, uma **rede conceitual** que inclui tanto os sintomas quanto o paciente e o observador [@berrios1996]. Ela incorpora todos os vieses culturais e epistemológicos decorrentes das situações históricas em que foi construída.
+
+**Não existe e nunca existiu um método descritivo puramente ateórico** [@berrios1989].
+
+## A Psicopatologia como Sistema Cognitivo
+
+A melhor forma de entender a psicopatologia descritiva, propõe Berrios, é defini-la como um **"sistema cognitivo"** para organizar o conhecimento [@berrios2012]:
+
+- Um sistema **construído pela mente**
+- Para tentar **compreender o funcionamento da mente**
+- Criado por uma comunidade específica de mentes do século XIX (psiquiatras europeus trabalhando com pacientes gravemente perturbados)
+
+Esse sistema não é um **espelho da natureza**, mas uma **ferramenta conceitual** — poderosa, útil, mas historicamente contingente e culturalmente situada.
+
+## História como Técnica de Calibração
+
+Berrios propõe que vejamos a história da psicopatologia não como mera curiosidade ou "comédia de erros", mas como uma **"poderosa técnica de calibração"** [@berrios2012].
+
+O que isso significa?
+
+Ao estudarmos como conceitos emergiram, mudaram e às vezes desapareceram, podemos:
+
+1. **Identificar pressupostos implícitos** em nossos conceitos atuais
+2. **Reconhecer limitações** que não são óbvias quando olhamos apenas para o presente
+3. **Ajustar conceitualmente** nossa linguagem à luz de novos conhecimentos
+4. **Antecipar** como conceitos atuais podem se transformar no futuro
+
+A história não é um exercício de antiquário — é um **instrumento crítico** para melhor prática contemporânea.
+
+## Conclusão: Uma Linguagem Útil, Mas Imperfeita
+
+A psicopatologia descritiva é o sistema que temos. E, apesar de seus problemas, mostrou-se extremamente útil [@berrios1996].
+
+Ela permitiu:
+- Comunicação mais precisa entre clínicos
+- Ensino sistemático de psiquiatria
+- Pesquisa mais rigorosa
+- Melhores critérios diagnósticos
+
+Mas precisamos usá-la com **consciência de suas limitações**:
+
+1. Foi construída em contexto histórico específico
+2. Baseou-se em amostra enviesada de pacientes
+3. Não é neutra ou ateórica
+4. Seus conceitos não são eternos
+5. Continua em evolução
+
+Como observou Berrios, "não há sistema rival" [@berrios1996] — não houve ainda tentativa de verificar "quão realmente boa" é a psicopatologia descritiva. Mas isso não significa que devamos aceitá-la acriticamente.
+
+Nas próximas seções, veremos:
+- Que nossas categorias são **construções culturais** (seção 1.4)
+- Que sintomas específicos têm **histórias conceituais** fascinantes (seção 1.5)
+- Que categorias **transformam** as pessoas classificadas (seção 1.6)
+
+Por ora, guardemos esta lição: **a linguagem que usamos tem história**, e conhecer essa história nos torna melhores clínicos e pesquisadores.
+
+---
+
+## Questões para Reflexão
+
+1. Por que foi necessário "fragmentar" a experiência mental para criar a psicopatologia descritiva? Que se ganha e que se perde com essa fragmentação?
+
+2. O termo "alucinação" mudou radicalmente de significado ao longo dos séculos. Isso sugere que nossos conceitos atuais também mudarão? Como?
+
+3. Se a psicopatologia foi construída observando pacientes asilados do século XIX, como isso afeta sua aplicabilidade a pacientes ambulatoriais do século XXI?
+
+4. Berrios sugere que a história da psicopatologia funciona como "técnica de calibração". O que isso significa na prática?
+
+5. A psicopatologia descritiva pretende ser "ateórica", mas não é. Que pressupostos teóricos estão implícitos em conceitos como "delírio", "alucinação" ou "depressão"?
+
+---
+
+## Leituras Complementares
+
+**Berrios - História conceitual:**
+- Berrios, G. E. (1996). *The History of Mental Symptoms: Descriptive Psychopathology Since the Nineteenth Century*. Cambridge: Cambridge University Press. [@berrios1996]
+- Berrios, G. E. (2012). Psicopatologia descritiva: aspectos históricos e conceituais. *Revista Latinoamericana de Psicopatologia Fundamental*, 15, 171-196. [@berrios2012]
+
+**Jaspers - Sistematização:**
+- Jaspers, K. (1979). *Psicopatologia Geral*. São Paulo: Atheneu. [@jaspers1979]
+- Häfner, H. (2015). Descriptive psychopathology, phenomenology, and the legacy of Karl Jaspers. *Dialogues in Clinical Neuroscience*, 17(1), 19-29. [@hafner2015]
+
+**História do conceito de alucinação:**
+- Blom, J. D. (2010). *A Dictionary of Hallucinations*. New York: Springer. [@blom2010]
+
+**Psicopatologia no Brasil:**
+- Rocha Neto, H. G., et al. (2019). Mental State Examination and Its Procedures. *Frontiers in Psychiatry*, 10, 77. [@rocha-neto2019]
