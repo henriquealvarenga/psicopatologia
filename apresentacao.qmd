@@ -87,5 +87,5 @@ A primeira edição deste material foi publicada em 2020 (ISBN 978-65-00-08881-6
 ---
 
 ::: {.cta-block}
-[Começar pelo Capítulo 1 — O problema do objeto](capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd){.btn-read}
+[Começar pelo Capítulo 1 — Introdução](capitulos/parte-1-fundamentos-epistemologicos/01-introducao.qmd){.btn-read}
 :::

@@ -2,17 +2,7 @@
 title: "Níveis de análise em psicopatologia"
 ---
 
-::: {.callout-important}
-## Questão para reflexão
 
-Há realmente uma linguagem comum em psicopatologia?
-:::
-
-## Introdução: A Questão Terminológica
-
-Na seção anterior, estabelecemos que o objeto da psicopatologia — a experiência subjetiva — apresenta desafios únicos. Agora enfrentamos outra questão: quando perguntamos "em que nível se situa a psicopatologia descritiva?", estamos fazendo a pergunta certa? O termo "nível epistemológico" é adequado?
-
-A resposta curta é: **não exatamente**. Mas a confusão terminológica nos oferece uma oportunidade valiosa para esclarecer o que realmente queremos perguntar.
 
 ## Clarificando os Termos
 

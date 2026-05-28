@@ -47,15 +47,13 @@ book:
     - apresentacao.qmd
     - part: "Parte I — Fundamentos epistemológicos"
       chapters:
-        - capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/02-niveis-analise.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/03-construcao-historica.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/04-categorias-culturais.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/05-historia-conceitual-sintomas.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/06-looping-effects.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/07-nao-meramente-descritiva.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/08-implicacoes-clinicas.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/09-pratica-reflexiva.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/01-introducao.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/02-metodo-fenomenologico.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/03-forma-conteudo.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/04-construcao-historica.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/05-categorias-culturais.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/06-linguagem-percepcao.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/07-problemas-da-psicopatologia.qmd
     - creditos.qmd
     - references.qmd
 

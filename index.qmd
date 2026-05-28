@@ -21,5 +21,5 @@ O que exatamente estudamos quando estudamos psicopatologia? Onde está o objeto?
 :::
 
 ::: {.cta-block}
-[Começar a leitura](capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd){.btn-read}
+[Começar a leitura](capitulos/parte-1-fundamentos-epistemologicos/01-introducao.qmd){.btn-read}
 :::

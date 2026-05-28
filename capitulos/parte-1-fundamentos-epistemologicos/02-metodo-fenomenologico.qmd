@@ -1,0 +1,57 @@
+---
+title: "O problema do objeto e o método fenomenológico"
+---
+
+::: {.callout-important}
+## Questão para reflexão
+
+Como podemos estudar cientificamente aquilo a que só temos acesso pelo relato do outro?
+:::
+
+## A peculiaridade do objeto psicopatológico
+
+A psicopatologia descritiva propõe-se a descrever e classificar fenômenos mentais. Diferentemente da anatomia ou da fisiologia, contudo, seus objetos de estudo não são diretamente observáveis por um investigador externo. Uma alucinação auditiva não pode ser fotografada. Um delírio de perseguição não pode ser pesado nem medido com instrumentos. A experiência de despersonalização não deixa marca visível no corpo. O objeto da psicopatologia é, fundamentalmente, a experiência subjetiva — aquilo que aparece à consciência de uma pessoa, mas que não é diretamente acessível a outra. Como então podemos estudar cientificamente algo que, por definição, só é diretamente acessível a quem o vivencia?
+
+Considere dois pacientes que dizem ter dor de cabeça. Como sabemos se estão sentindo a mesma dor? Podemos estimar a intensidade através de escalas numéricas, mas essas escalas dependem do relato verbal do paciente. Não temos acesso direto à experiência dolorosa de outra pessoa, não podemos entrar na consciência alheia e sentir o que ela sente. Na medicina geral, lidamos com essa limitação apoiando-nos em correlatos objetivos: exames de imagem, análises laboratoriais, sinais vitais. Em psicopatologia, contudo, frequentemente não há correlatos objetivos suficientemente específicos. Não existe um exame de sangue para o delírio, tampouco uma ressonância magnética da angústia que nos permita verificar diretamente a experiência do paciente. Dependemos, portanto, fundamentalmente do relato — da narrativa que o paciente nos oferece sobre sua própria experiência, mediada pela linguagem, pela capacidade de expressão, pela relação terapêutica e pelo contexto cultural.
+
+Se dois médicos discordarem sobre se um paciente tem delírio, como resolvem a questão? Não podem abrir a mente do paciente como abririam um cadáver. Podem entrevistá-lo novamente, buscar mais informações, tentar compreender melhor sua experiência. Mas a verificação permanece indireta, mediada, interpretativa. Esse é um problema epistemológico fundamental da disciplina: como validar nossas descrições de experiências subjetivas; como saber se compreendemos corretamente o que o paciente experimenta.
+
+## O método fenomenológico de Jaspers
+
+O método para enfrentar essa peculiaridade do objeto foi introduzido na psicopatologia por Karl Jaspers em 1913, com o nome de método fenomenológico. Segundo Jaspers, os sintomas subjetivos do paciente deveriam ser compreendidos através de uma relação empática, num processo pelo qual o paciente compartilha suas experiências com o médico [@jaspers1979; @telles-correia2018]. Mais do que um conjunto de técnicas, tratava-se de uma postura: a tentativa de apreender, da forma mais aproximada possível, como uma dada experiência mental aparece para quem a vivencia.
+
+Para Jaspers, há dois modos fundamentais de conhecimento, e a psicopatologia precisa começar reconhecendo a diferença entre eles. *Erklären* (explicar) é o modo das ciências naturais: buscar causas, mecanismos, relações causais. A febre é causada por uma infecção bacteriana; a hipertensão pelo aumento da resistência vascular periférica; o infarto pela oclusão coronariana. *Verstehen* (compreender) é o modo das ciências do espírito: apreender o sentido, a vivência, a experiência tal como é para quem a vive. O paciente sente-se perseguido e vive em estado de constante vigilância; sente-se sem energia e sem esperança; sente seu corpo como estranho e seus pensamentos como impostos por outro. Como escreveu Jaspers, "explicamos a natureza, compreendemos a vida psíquica" [@jaspers1979]. A psicopatologia descritiva, segundo ele, deve começar pela compreensão — pela tentativa de apreender fenomenologicamente o que o paciente vivencia — para só então buscar explicações causais.
+
+Para Jaspers, as duas grandes classes de manifestações psicopatológicas — objetivas e subjetivas — não se equiparavam aos clássicos sinais e sintomas da clínica médica. Ele considerava também serem manifestações psíquicas objetivas os sintomas do paciente que pudessem ser intelectualmente compreendidos [@jaspers1979; @telles-correia2018]. Assim, um delírio poderia ser considerado um dado objetivo para a psicopatologia [@telles-correia2018] — não porque fosse observável externamente, mas porque sua estrutura lógica (ou a falta dela) pode ser compreendida intersubjetivamente. A nuance é sutil, mas importante: Jaspers afirmava que a compreensão empática de uma experiência subjetiva pode gerar conhecimento válido e compartilhável, mesmo sem observação direta.
+
+A fenomenologia de Jaspers, contudo, derivada da filosofia, era difícil de aplicar na clínica psiquiátrica da época. Coube a seu discípulo Kurt Schneider a tarefa de transformar a psicopatologia fenomenológica e filosófica de Jaspers numa psicopatologia clínica efetivamente aplicável [@huber2002]. O livro-texto de Schneider, *Psicopatologia clínica*, foi uma síntese mais acessível do pensamento jaspersiano e tornou-se o livro didático formativo da psiquiatria alemã por várias décadas [@hafner2015]. Uma das mais conhecidas contribuições de Schneider foram seus *sintomas de primeira ordem* — uma série de fenômenos psicopatológicos que, segundo ele, poderiam indicar o diagnóstico de esquizofrenia. Embora muito da obra de Schneider tenha sido superada pelos avanços da psiquiatria, a ideia de que um conjunto específico de sintomas seria importante para o diagnóstico sobrevive até hoje nos critérios do DSM e da CID.
+
+## O observador não é neutro
+
+Apesar das contribuições de Jaspers e da sofisticação do método fenomenológico, um problema persiste. Quando descrevemos a experiência de um paciente, não estamos simplesmente registrando fatos objetivos. Estamos interpretando, organizando e categorizando a narrativa que nos é apresentada — e essa interpretação é inevitavelmente mediada por nossa própria experiência de mundo, pela nossa formação teórica, pelas categorias conceituais de que dispomos, pela nossa cultura e momento histórico e pela relação específica que estabelecemos com aquele paciente. Como observou Berrios, "a observação nunca é uma atividade cognitiva inocente" [@berrios1996]: toda descrição dos fenômenos mentais se fundamenta em suposições sobre a natureza do comportamento humano, de modo que a psicopatologia descritiva é, na verdade, uma rede conceitual que inclui tanto os sintomas quanto o paciente e o observador [@berrios1996].
+
+Considere o exemplo do paciente que diz "ouço vozes". Como sabemos que compreendemos o que ele quer dizer? Nossa própria experiência de ouvir — sons reais, vozes de pessoas — pode ser muito diferente da experiência que ele descreve. Alguns pacientes relatam vozes que vêm de fora da cabeça; outros, de dentro; alguns as percebem como externas, mas sem localização espacial definida; alguns as reconhecem como não reais, outros têm certeza absoluta de sua realidade externa; alguns as ouvem com os ouvidos, outros ouvem sem som. Estarão todos esses pacientes descrevendo o mesmo fenômeno, ou estamos agrupando experiências heterogêneas sob um mesmo rótulo — *alucinação auditiva* — porque nossa linguagem nos oferece apenas esse termo?
+
+## A interação modificadora da experiência
+
+Há ainda outro aspecto fundamental do encontro clínico em psicopatologia: a própria interação entre médico e paciente modifica a experiência que está sendo descrita. O relato do paciente não é um processo passivo de coleta de dados, mas um processo dialético, em que médico e paciente se interconectam cognitivamente e emocionalmente, e ambos saem transformados.
+
+Colocar sentimentos em palavras é, há muito tempo, uma das formas mais usuais de lidar com experiências emocionais negativas [@lieberman2007]. Estudos de neuroimagem mostraram que o processamento linguístico de aspectos emocionais reduz a atividade da amígdala e de outras regiões do sistema límbico [@lieberman2007], evidenciando correlatos biológicos desse processo — falar sobre a própria experiência não apenas a descreve, mas a transforma. Nas últimas duas décadas, técnicas de neuroimagem permitiram a investigação das alterações neuroplásticas associadas ao tratamento psicoterapêutico e demonstraram que a psicoterapia resulta em modificações de padrões cerebrais, podendo ter efeitos comparáveis aos da medicação em alguns transtornos [@barsaglini2014]. O processo de avaliação médica deve, portanto, ser entendido como parte integrante do processo de ajuda e mudança do paciente. Não estamos apenas coletando informações de forma neutra; estamos já iniciando uma intervenção. A forma como fazemos perguntas, o que escolhemos perguntar, como reagimos ao relato — tudo isso molda a narrativa que nos é apresentada e, em alguma medida, a própria experiência que o paciente tem de si mesmo.
+
+## Síntese: anatomia × psicopatologia
+
+Podemos agora elaborar com mais precisão as diferenças entre o trabalho do anatomista e o do psicopatologista:
+
+| **Aspecto**                  | **Anatomia**                          | **Psicopatologia**                          |
+|------------------------------|---------------------------------------|---------------------------------------------|
+| **Objeto**                   | Estruturas físicas (órgãos, tecidos)  | Experiências subjetivas                     |
+| **Acesso**                   | Observação direta externa             | Relato verbal + inferência                  |
+| **Verificação**              | Inspeção, medição, dissecção          | Compreensão empática, interpretação         |
+| **Consenso**                 | Dois anatomistas veem o mesmo órgão   | Dois psiquiatras interpretam o mesmo relato |
+| **Método**                   | Observação objetiva                   | Compreensão fenomenológica                  |
+| **Natureza do conhecimento** | *Erklären* (explicação)               | *Verstehen* (compreensão) + *Erklären*      |
+| **Estabilidade**             | Estruturas anatômicas são universais  | Sintomas variam com cultura/época           |
+
+: Comparação entre anatomia e psicopatologia {.striped tbl-colwidths="[25,35,40]"}
+
+A diferença fundamental é esta: na anatomia, o objeto existe independentemente do observador; na psicopatologia, objeto, observador e processo de observação estão inextricavelmente entrelaçados.

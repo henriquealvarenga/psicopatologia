@@ -233,7 +233,7 @@ Apresentar as três limitações principais da psicopatologia descritiva — e d
 
 3. **(110:08 – 110:10)** **Tarefa.** Indicar:
 
-   - **Leitura obrigatória:** [Capítulo 1 — O problema do objeto](../capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd)
+   - **Leitura obrigatória:** [Capítulo 1 — Introdução](../capitulos/parte-1-fundamentos-epistemologicos/01-introducao.qmd)
    - **Exercício de escrita curta** (1 página, para entregar na próxima aula): *"Descreva uma experiência que você teve ou observou de alguém em sofrimento psíquico. Tente usar linguagem o mais descritiva possível. Depois, releia o que escreveu e identifique pelo menos três decisões interpretativas que você fez sem perceber."*
 
 ## Variações e adaptações
@@ -278,7 +278,7 @@ Esse instrumento simples é mais útil do que prova ao final da disciplina para 
 
 Para preparar esta aula com profundidade, recomenda-se ao docente revisar:
 
-- [Capítulos 1 a 3](../capitulos/parte-1-fundamentos-epistemologicos/01-problema-objeto.qmd) deste livro (cobrem o conteúdo conceitual)
+- [Capítulos 1 a 3](../capitulos/parte-1-fundamentos-epistemologicos/01-introducao.qmd) deste livro (cobrem o conteúdo conceitual)
 - O ensaio de Berrios (2012) sobre psicopatologia descritiva [@berrios2012]
 - O artigo de Telles-Correia et al. (2018) sobre Jaspers [@telles-correia2018]
 
