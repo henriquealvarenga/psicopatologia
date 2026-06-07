@@ -44,7 +44,7 @@ jobs:
 
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0  # útil pro Quarto pegar datas de "last-modified"
 
@@ -56,7 +56,7 @@ jobs:
       # Cache do diretório .quarto/ — acelera renders subsequentes quando
       # apenas alguns capítulos mudaram (freeze: auto no _quarto.yml).
       - name: Cache do Quarto (freeze)
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: |
             .quarto
@@ -71,10 +71,10 @@ jobs:
           QUARTO_PRINT_STACK: "true"
 
       - name: Configurar GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Upload do artifact de Pages
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           # output-dir do projeto Quarto (veja _quarto.yml)
           path: _book
@@ -94,4 +94,4 @@ jobs:
     steps:
       - name: Deploy para GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
