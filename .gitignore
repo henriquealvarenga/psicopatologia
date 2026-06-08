@@ -59,3 +59,11 @@ Desktop.ini
 # (mantém o .bib e os csl_styles versionados)
 # =========================================================================
 references/PDFs/
+
+# =========================================================================
+# Capa: versionamos APENAS a final (cover.jpg). O fonte editável do
+# Pixelmator (.pxd) e as fotos-fonte em alta resolução (ex.: Unsplash)
+# ficam só localmente, para manter o repositório leve.
+# =========================================================================
+images/*.pxd
+images/*-unsplash.*

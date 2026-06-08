@@ -25,9 +25,9 @@ book:
     análise, construção histórica das categorias, looping effects e
     implicações para a prática clínica reflexiva.
   keyword: "psicopatologia, fenomenologia, semiologia psiquiátrica, filosofia da psiquiatria, educação médica, UFSJ, Berrios, Hacking, Jaspers"
-  cover-image: images/cover.png
-  favicon: images/cover.png
-  image: images/cover.png
+  cover-image: images/cover.jpg
+  favicon: images/cover.jpg
+  image: images/cover.jpg
 
   repo-url: https://github.com/henriquealvarenga/psicopatologia
   repo-branch: main
