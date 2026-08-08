@@ -91,7 +91,7 @@ Contribuições são bem-vindas via *issues* ou *pull requests*, especialmente:
 A imagem reproduzida na capa é a fotografia **"A walking path going through the forest for miles at Apostle Island National Lakeshore"** de **Todd Trapani**, disponibilizada na plataforma Unsplash. A sobreposição tipográfica (título, subtítulo, edição, autor) foi feita por Henrique Alvarenga da Silva.
 
 ::: {.content-visible when-format="html"}
-[![Capa do livro Psicopatologia — fotografia de uma trilha cruzando uma floresta, de Todd Trapani (Unsplash).](images/cover.png){.cover-credit-thumb fig-alt="Miniatura da capa: trilha de madeira atravessando uma floresta densa em Apostle Islands National Lakeshore."}](https://unsplash.com/photos/brown-wooden-dock-in-the-middle-of-forest-v2Jf_jpNamc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+[![Capa do livro Psicopatologia — fotografia de uma trilha cruzando uma floresta, de Todd Trapani (Unsplash).](images/cover.jpg){.cover-credit-thumb fig-alt="Miniatura da capa: trilha de madeira atravessando uma floresta densa em Apostle Islands National Lakeshore."}](https://unsplash.com/photos/brown-wooden-dock-in-the-middle-of-forest-v2Jf_jpNamc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 :::
 
 | Campo                       | Informação |
@@ -116,7 +116,7 @@ Outras imagens eventualmente utilizadas neste livro provêm de fontes de uso liv
 
 | Campo                                 | Informação |
 |---------------------------------------|-----------|
-| **Título**                            | Psicopatologia: Uma Breve Introdução |
+| **Título**                            | Fenômenos da mente: uma introdução crítica à psicopatologia |
 | **Edição**                            | 2ª edição (revista e ampliada) |
 | **Ano**                               | 2026 |
 | **Editor**                            | Edição do Autor — Henrique Alvarenga da Silva |
@@ -158,22 +158,22 @@ Selecione o estilo abaixo:
 
 ### ABNT (NBR 6023)
 
-SILVA, Henrique Alvarenga da. **Psicopatologia**: uma breve introdução. 2. ed. São João del-Rei: Edição do Autor, 2026. E-book. Disponível em: <https://henriquealvarenga.com/psicopatologia>. Acesso em: [inserir data de acesso].
+SILVA, Henrique Alvarenga da. **Fenômenos da mente**: uma introdução crítica à psicopatologia. 2. ed. São João del-Rei: Edição do Autor, 2026. E-book. Disponível em: <https://henriquealvarenga.com/psicopatologia>. Acesso em: [inserir data de acesso].
 
 ### Vancouver
 
-Silva HA. Psicopatologia: uma breve introdução. 2ª ed. [Internet]. São João del-Rei (MG): Edição do Autor; 2026 [citado em ano mês dia]. Disponível em: https://henriquealvarenga.com/psicopatologia
+Silva HA. Fenômenos da mente: uma introdução crítica à psicopatologia. 2ª ed. [Internet]. São João del-Rei (MG): Edição do Autor; 2026 [citado em ano mês dia]. Disponível em: https://henriquealvarenga.com/psicopatologia
 
 ### APA (7ª ed.)
 
-Silva, H. A. da. (2026). *Psicopatologia: Uma breve introdução* (2ª ed.). Edição do Autor. https://henriquealvarenga.com/psicopatologia
+Silva, H. A. da. (2026). *Fenômenos da mente: Uma introdução crítica à psicopatologia* (2ª ed.). Edição do Autor. https://henriquealvarenga.com/psicopatologia
 
 ### BibTeX
 
 ```bibtex
 @book{silva_psicopatologia_2026,
   author    = {Silva, Henrique Alvarenga da},
-  title     = {Psicopatologia: uma breve introdução},
+  title     = {Fenômenos da mente: uma introdução crítica à psicopatologia},
   edition   = {2},
   publisher = {Edição do Autor},
   address   = {São João del-Rei, MG, Brasil},

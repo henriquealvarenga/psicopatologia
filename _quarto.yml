@@ -6,8 +6,8 @@ lang: pt-BR
 language: _language-pt.yml
 
 book:
-  title: "Psicopatologia"
-  subtitle: "Uma Breve Introdução"
+  title: "Fenômenos da mente"
+  subtitle: "Uma introdução crítica à psicopatologia"
   edition: "2ª edição"
   author:
     - name: "Henrique Alvarenga da Silva"
@@ -48,12 +48,17 @@ book:
     - part: "Parte I — Fundamentos epistemológicos"
       chapters:
         - capitulos/parte-1-fundamentos-epistemologicos/01-introducao.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/02-metodo-fenomenologico.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/03-forma-conteudo.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/04-construcao-historica.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/05-categorias-culturais.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/06-linguagem-percepcao.qmd
-        - capitulos/parte-1-fundamentos-epistemologicos/07-problemas-da-psicopatologia.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/02-linguagem-descritiva.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/03-metodo-fenomenologico.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/04-observador.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/05-forma-conteudo.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/06-construcao-historica.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/07-categorias-culturais.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/08-linguagem-percepcao.qmd
+        - capitulos/parte-1-fundamentos-epistemologicos/09-problemas-da-psicopatologia.qmd
+    - part: "Parte II — Da crítica à prática reflexiva"
+      chapters:
+        - capitulos/parte-2-da-critica-a-pratica/08-niveis-analise.qmd
     - creditos.qmd
     - references.qmd
 
@@ -61,6 +66,7 @@ book:
     - apendices/apendice-a-leituras.qmd
     - apendices/apendice-b-exercicios.qmd
     - apendices/apendice-c-guia-aula.qmd
+    - apendices/apendice-d-problema-dos-niveis.qmd
 
   page-footer:
     left: "© 2026 Henrique Alvarenga — Material didático UFSJ"

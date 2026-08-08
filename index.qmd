@@ -1,25 +1,11 @@
 ---
-pagetitle: "Psicopatologia — Uma Breve Introdução"
+pagetitle: "Fenômenos da mente — Uma introdução crítica à psicopatologia"
 toc: false
 number-sections: false
 ---
 
 ::: {.hero}
-::: {.eyebrow}
-Material didático · UFSJ · Curso de Medicina
+# Fenômenos da mente {.hero-title .unnumbered}
 :::
 
-# Psicopatologia {.hero-title}
 
-::: {.hero-subtitle}
-Uma Breve Introdução
-:::
-
-::: {.lede}
-O que exatamente estudamos quando estudamos psicopatologia? Onde está o objeto? Este livro percorre os fundamentos epistemológicos da semiologia psiquiátrica — o problema do objeto, os níveis de análise, a construção histórica das categorias, os *looping effects*, as implicações para a prática clínica reflexiva.
-:::
-:::
-
-::: {.cta-block}
-[Começar a leitura](capitulos/parte-1-fundamentos-epistemologicos/01-introducao.qmd){.btn-read}
-:::
